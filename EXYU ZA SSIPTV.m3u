@@ -1,0 +1,981 @@
+#EXTM3U
+#EXTINF:10,****** Hrvatska ****** - ****** Hrvatska ******
+http://vod.kafic.info/movies/title/hrvatski.mp4
+#EXTINF:0,HRT 1 - HRT 1
+http://s01.kafic.info:80/live?channelId=2&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,HRT 2 - HRT 2
+http://s01.kafic.info:80/live?channelId=3&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,HRT 3 - HRT 3
+http://s01.kafic.info:80/live?channelId=4&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,HRT 4 - HRT 4
+http://s01.kafic.info:80/live?channelId=5&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Nova TV - Nova TV
+http://s01.kafic.info:80/live?channelId=6&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Doma TV - Doma TV
+http://cms.kafic.info:80/live?channelId=7&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,RTL - RTL
+http://cms.kafic.info:80/live?channelId=8&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,RTL 2 - RTL 2
+http://s01.kafic.info:80/live?channelId=9&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,RTL Crime - RTL Crime
+http://s04.kafic.info:80/live?channelId=442&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,RTL Living - RTL Living
+http://cms.kafic.info:80/live?channelId=10&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,RTL Passion - RTL Passion
+http://s01.kafic.info:80/live?channelId=443&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Osjecka TV - Osjecka TV
+http://s04.kafic.info:80/live?channelId=430&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Slavonska TV - Slavonska TV
+http://s04.kafic.info:80/live?channelId=431&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Vinkovacka TV - Vinkovacka TV
+http://s04.kafic.info:80/live?channelId=432&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Z1 - Z1
+http://s02.kafic.info:80/live?channelId=869&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Banovina TV - Banovina TV
+http://cms.kafic.info:80/live?channelId=12&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:10,*****Bosna***** - *****Bosna*****
+http://vod.kafic.info/movies/title/bosanski.mp4
+#EXTINF:0,BHT 1 - BHT 1
+http://s01.kafic.info:80/live?channelId=14&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Federalna TV - Federalna TV
+http://cms.kafic.info:80/live?channelId=15&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,TV Sarajevo - TV Sarajevo
+http://cms.kafic.info:80/live?channelId=16&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Al Jazeera Balkans - Al Jazeera Balkans
+http://cms.kafic.info:80/live?channelId=17&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,ATV - ATV
+http://cms.kafic.info:80/live?channelId=18&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Face TV - Face TV
+http://cms.kafic.info:80/live?channelId=19&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,TK Tuzla - TK Tuzla
+http://s01.kafic.info:80/live?channelId=20&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Hayat TV - Hayat TV
+http://cms.kafic.info:80/live?channelId=21&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Hayat Plus - Hayat Plus
+http://s01.kafic.info:80/live?channelId=435&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,N1 - N1
+http://cms.kafic.info:80/live?channelId=23&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,OBN - OBN
+http://cms.kafic.info:80/live?channelId=24&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Valentino TV - Valentino TV
+http://cms.kafic.info:80/live?channelId=25&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,MTV Igman - MTV Igman
+http://s01.kafic.info:80/live?channelId=28&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,BN - BN
+http://cms.kafic.info:80/live?channelId=29&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,RTV Zenica - RTV Zenica
+http://cms.kafic.info:80/live?channelId=31&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Posavina Tv - Posavina Tv
+http://cms.kafic.info:80/live?channelId=32&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Duga Tv - Duga Tv
+http://cms.kafic.info:80/live?channelId=33&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,TV1 - TV1
+http://s04.kafic.info:80/live?channelId=375&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,RTV Mir - RTV Mir
+http://cms.kafic.info:80/live?channelId=449&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,RTV USK - RTV USK
+http://s04.kafic.info:80/live?channelId=462&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,RTV Slon - RTV Slon
+http://cms.kafic.info:80/live?channelId=874&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Alfa TV Sarajevo - Alfa TV Sarajevo
+http://cms.kafic.info:80/live?channelId=875&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,RTRS - RTRS
+http://cms.kafic.info:80/live?channelId=42&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Glas Drine - Glas Drine
+http://s02.kafic.info:80/live?channelId=905&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,A1 Balkan - A1 Balkan
+http://s04.kafic.info:80/live?channelId=918&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,A1 Islam - A1 Islam
+http://s04.kafic.info:80/live?channelId=919&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Bosna TV 1 - Bosna TV 1
+http://cms.kafic.info:80/live?channelId=1045&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:10,*****Srbija***** - *****Srbija*****
+http://vod.kafic.info/movies/title/srpski.mp4
+#EXTINF:0,RTS 1 - RTS 1
+http://cms.kafic.info:80/live?channelId=35&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,RTS 2 - RTS 2
+http://s01.kafic.info:80/live?channelId=36&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,RTS 3 - RTS 3
+http://cms.kafic.info:80/live?channelId=37&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,RTV 1 - RTV 1
+http://s02.kafic.info:80/live?channelId=474&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,B92 - B92
+http://cms.kafic.info:80/live?channelId=38&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Studio B - Studio B
+http://cms.kafic.info:80/live?channelId=873&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Nova Rs - Nova Rs
+http://cms.kafic.info:80/live?channelId=39&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Prva - Prva
+http://s01.kafic.info:80/live?channelId=40&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Prva Plus - Prva Plus
+http://cms.kafic.info:80/live?channelId=41&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Prva World - Prva World
+http://s02.kafic.info:80/live?channelId=908&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Prva Max - Prva Max
+http://s04.kafic.info:80/live?channelId=423&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Happy TV - Happy TV
+http://cms.kafic.info:80/live?channelId=223&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Happy Parovi uzivo 24h - Happy Parovi uzivo 24h
+http://s02.kafic.info:80/live?channelId=231&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,RTV Novi Pazar - RTV Novi Pazar
+http://s01.kafic.info:80/live?channelId=224&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,RTV CG - RTV CG
+http://cms.kafic.info:80/live?channelId=45&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,RTV Atlas - RTV Atlas
+http://cms.kafic.info:80/live?channelId=871&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Sandzak TV - Sandzak TV
+http://s04.kafic.info:80/live?channelId=465&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Belle Amie TV - Belle Amie TV
+http://s02.kafic.info:80/live?channelId=906&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,VIP TV - VIP TV
+http://s02.kafic.info:80/live?channelId=907&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,KCN 1 - KCN 1
+http://s02.kafic.info:80/live?channelId=234&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,KCN 2 - KCN 2
+http://s04.kafic.info:80/live?channelId=451&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,KCN 3 - KCN 3
+http://s6.kafic.info:80/live?channelId=883&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,***** Makedonski ***** - ***** Makedonski *****
+http://vod.kafic.info/movies/title/makedonski.mp4
+#EXTINF:0,MRT 1 - MRT 1
+http://s04.kafic.info:80/live?channelId=426&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,MRT 2 - MRT 2
+http://s04.kafic.info:80/live?channelId=427&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,MRT 3 - MRT 3
+http://cms.kafic.info:80/live?channelId=1333&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Kanal 5 - Kanal 5
+http://s01.kafic.info:80/live?channelId=226&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Kanal 5+ - Kanal 5+
+http://s01.kafic.info:80/live?channelId=227&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Sitel - Sitel
+http://s01.kafic.info:80/live?channelId=228&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Sitel 3 - Sitel 3
+http://s01.kafic.info:80/live?channelId=229&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Telma - Telma
+http://s01.kafic.info:80/live?channelId=230&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Alsat M - Alsat M
+http://s02.kafic.info:80/live?channelId=235&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Alfa TV MK - Alfa TV MK
+http://cms.kafic.info:80/live?channelId=236&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,24 Vesti - 24 vesti
+http://s01.kafic.info:80/live?channelId=876&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Sutel TV - Sutel TV
+http://s02.kafic.info:80/live?channelId=232&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Roma TV (Test) - Roma TV (Test)
+http://s02.kafic.info:80/live?channelId=913&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:10,***** PINK ***** - ***** PINK *****
+http://vod.kafic.info/movies/title/pink.mp4
+#EXTINF:0,Pink - Pink
+http://cms.kafic.info:80/live?channelId=50&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink BH - Pink BH
+http://cms.kafic.info:80/live?channelId=51&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Plus - Pink Plus
+http://cms.kafic.info:80/live?channelId=52&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink 2 - Pink 2
+http://cms.kafic.info:80/live?channelId=53&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink 3 - Pink 3
+http://cms.kafic.info:80/live?channelId=54&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink M - Pink M
+http://cms.kafic.info:80/live?channelId=55&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Soap - Pink Soap
+http://cms.kafic.info:80/live?channelId=56&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Action - Pink Action
+http://cms.kafic.info:80/live?channelId=57&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Film - Pink Film
+http://cms.kafic.info:80/live?channelId=58&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Premium - Pink Premium
+http://cms.kafic.info:80/live?channelId=61&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Comedy - Pink Comedy
+http://cms.kafic.info:80/live?channelId=62&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Horror - Pink Horror
+http://cms.kafic.info:80/live?channelId=63&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Movies - Pink Movies
+http://cms.kafic.info:80/live?channelId=64&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Crime & Mystery - Pink Crime & Mystery
+http://cms.kafic.info:80/live?channelId=65&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink World Cinema - Pink World Cinema
+http://cms.kafic.info:80/live?channelId=66&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Western - Pink Western
+http://cms.kafic.info:80/live?channelId=67&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Sci Fi & Fantasy - Pink Sci Fi & Fantasy
+http://cms.kafic.info:80/live?channelId=70&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Thriller - Pink Thriller
+http://cms.kafic.info:80/live?channelId=71&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Serije - Pink Serije
+http://s04.kafic.info:80/live?channelId=461&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Classic - Pink Classic
+http://cms.kafic.info:80/live?channelId=872&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Zabava - Pink Zabava
+http://cms.kafic.info:80/live?channelId=72&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Romance - Pink Romance
+http://cms.kafic.info:80/live?channelId=74&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Reality - Pink Reality
+http://cms.kafic.info:80/live?channelId=75&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Kuvar - Pink Kuvar
+http://s04.kafic.info:80/live?channelId=433&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,***** Film & serije ***** - ***** Film & serije *****
+http://s04.kafic.info:80/live?channelId=78&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,HBO Adria - HBO Adria
+http://s01.kafic.info:80/live?channelId=79&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,HBO 2 - HBO 2
+http://s01.kafic.info:80/live?channelId=80&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,HBO 3 - HBO 3
+http://cms.kafic.info:80/live?channelId=622&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,CineStar TV - CineStar TV
+http://s01.kafic.info:80/live?channelId=81&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,CineStar Premiere - CineStar Premiere
+http://s01.kafic.info:80/live?channelId=82&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,CineStar Premiere 2 - CineStar Premiere 2
+http://s01.kafic.info:80/live?channelId=83&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,CineStar Action & Thriller - CineStar Action & Thriller
+http://s01.kafic.info:80/live?channelId=84&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Cinestar Fantasy - Cinestar Fantasy
+http://s01.kafic.info:80/live?channelId=233&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Cinemax 1 - Cinemax 1
+http://s01.kafic.info:80/live?channelId=85&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Cinemax 2 - Cinemax 2
+http://s01.kafic.info:80/live?channelId=86&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,M1 Film - M1 Film
+http://cms.kafic.info:80/live?channelId=446&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,FilmBox Extra - FilmBox Extra
+http://cms.kafic.info:80/live?channelId=870&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,FilmBox Plus - FilmBox Plus
+http://s02.kafic.info:80/live?channelId=909&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Klasik TV - Klasik TV
+http://cms.kafic.info:80/live?channelId=44&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,TV 1000 - TV 1000
+http://s01.kafic.info:80/live?channelId=445&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,AXN - AXN
+http://s01.kafic.info:80/live?channelId=444&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,FOX - FOX
+http://s01.kafic.info:80/live?channelId=87&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,FOX Movies - FOX Movies
+http://s01.kafic.info:80/live?channelId=88&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,FOX Life - FOX Life
+http://s01.kafic.info:80/live?channelId=89&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,FOX Crime - FOX Crime
+http://s01.kafic.info:80/live?channelId=90&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Sci Fi - Sci Fi
+http://s01.kafic.info:80/live?channelId=91&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,***** Doku & Style ***** - ***** Doku & Style *****
+http://s04.kafic.info:80/live?channelId=92&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,National Geographic - National Geographic
+http://s01.kafic.info:80/live?channelId=93&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Discovery Channel - Discovery Channel
+http://s01.kafic.info:80/live?channelId=94&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,History Channel - History Channel
+http://s01.kafic.info:80/live?channelId=95&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,History Channel 2 - History Channel 2
+http://cms.kafic.info:80/live?channelId=456&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Viasat Explorer - Viasat Explorer
+http://s03.kafic.info:80/live?channelId=342&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Viasat History - Viasat History
+http://s03.kafic.info:80/live?channelId=343&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,DocuBox - DocuBox
+http://s02.kafic.info:80/live?channelId=911&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Travel Channel - Travel Channel
+http://s6.kafic.info:80/live?channelId=892&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Pedia - Pink Pedia
+http://cms.kafic.info:80/live?channelId=68&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Viasat Nature - Viasat Nature
+http://s03.kafic.info:80/live?channelId=344&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,NatGeo Wild - NatGeo Wild
+http://cms.kafic.info:80/live?channelId=624&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Animal Planet - Animal Planet
+http://s01.kafic.info:80/live?channelId=97&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Investigation Discovery - Investigation Discovery
+http://s01.kafic.info:80/live?channelId=96&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,E! - E!
+http://s01.kafic.info:80/live?channelId=98&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,TLC - TLC
+http://s01.kafic.info:80/live?channelId=100&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Comedy Central Extra - Comedy Central Extra
+http://s04.kafic.info:80/live?channelId=455&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,24 Kitchen - 24 Kitchen
+http://s01.kafic.info:80/live?channelId=99&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Lov i Ribolov - Lov i Ribolov
+http://s01.kafic.info:80/live?channelId=101&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,NASA TV - NASA TV
+http://s03.kafic.info:80/live?channelId=346&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,***** Music ***** - ***** Music *****
+http://cms.kafic.info:80/live?channelId=1322&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,MTV Adria - MTV Adria
+http://s01.kafic.info:80/live?channelId=102&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,MTV Music - MTV Music
+http://s02.kafic.info:80/live?channelId=1328&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,MTV Hits - MTV Hits
+http://cms.kafic.info:80/live?channelId=1332&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,MTV Classic - MTV Classic
+http://cms.kafic.info:80/live?channelId=1331&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,MTV Rocks - MTV Rocks
+http://cms.kafic.info:80/live?channelId=1330&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,MTV Dance - MTV Dance
+http://s01.kafic.info:80/live?channelId=103&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,MTV Base - MTV Base
+http://cms.kafic.info:80/live?channelId=1329&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,VH1 - VH1
+http://s01.kafic.info:80/live?channelId=104&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,CMC - CMC
+http://cms.kafic.info:80/live?channelId=11&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Jugoton TV - Jugoton TV
+http://s03.kafic.info:80/live?channelId=349&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,BN Music - BN Music
+http://cms.kafic.info:80/live?channelId=30&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Grand Narodna TV - Grand Narodna TV
+http://s01.kafic.info:80/live?channelId=43&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,DM Sat - DM Sat
+http://cms.kafic.info:80/live?channelId=27&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Hayat Music - Hayat Music
+http://s01.kafic.info:80/live?channelId=436&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Hayat Folk - Hayat Folk
+http://cms.kafic.info:80/live?channelId=22&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Top Music - Jata TV - Top Music - Jata TV
+http://cms.kafic.info:80/live?channelId=434&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink n Roll - Pink n Roll
+http://s02.kafic.info:80/live?channelId=260&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Music - Pink Music
+http://cms.kafic.info:80/live?channelId=73&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Folk 1 - Pink Folk 1
+http://cms.kafic.info:80/live?channelId=59&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Folk 2 - Pink Folk 2
+http://cms.kafic.info:80/live?channelId=60&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Balkanika - Balkanika
+http://cms.kafic.info:80/live?channelId=48&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Izvorna TV - Izvorna TV
+http://cms.kafic.info:80/live?channelId=26&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,***** Kids ***** - ***** Kids *****
+http://s04.kafic.info:80/live?channelId=115&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,RTL Kockica - RTL Kockica
+http://s01.kafic.info:80/live?channelId=107&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Nickelodeon - Nickelodeon
+http://s01.kafic.info:80/live?channelId=110&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Nick Jr. - Nick Jr.
+http://s04.kafic.info:80/live?channelId=463&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Mini TV - Mini TV
+http://s01.kafic.info:80/live?channelId=111&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Minimax - Minimax
+http://s01.kafic.info:80/live?channelId=112&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Hayatovci - Hayatovci
+http://s01.kafic.info:80/live?channelId=108&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Kids - Pink Kids
+http://cms.kafic.info:80/live?channelId=69&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Pink Super Kids - Pink Super Kids
+http://s01.kafic.info:80/live?channelId=450&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Ultra TV - Ultra TV
+http://s02.kafic.info:80/live?channelId=914&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Disney Channel UK - Disney Channel UK
+http://s01.kafic.info:80/live?channelId=114&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Disney Jr. UK - Disney Jr. UK
+http://s01.kafic.info:80/live?channelId=116&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Disney XD - Disney XD
+http://s01.kafic.info:80/live?channelId=117&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Cartoon Network UK - Cartoon Network UK
+http://s01.kafic.info:80/live?channelId=118&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Kika DE - Kika DE
+http://s03.kafic.info:80/live?channelId=274&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Disney Cinemagic DE - Disney Cinemagic DE
+http://s04.kafic.info:80/live?channelId=272&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Nickelodeon DE - Nickelodeon DE
+http://cms.kafic.info:80/live?channelId=1327&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,Baby TV - Baby TV
+http://s03.kafic.info:80/live?channelId=350&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,***** Sport ***** - ***** Sport *****
+http://s04.kafic.info:80/live?channelId=119&uid=16037&deviceMac=00:1A:79:32:AA:01
+#EXTINF:0,ARENA SPORT 1 SR - ARENA SPORT 1 SR
+http://s02.bihnet.net:80/live?channelId=42&uid=246&deviceUser=sajce&devicePass=sajce
+#EXTINF:0,ARENA SPORT 2 SR - ARENA SPORT 2 SR
+http://s02.bihnet.net:80/live?channelId=43&uid=246&deviceUser=sajce&devicePass=sajce
+#EXTINF:0,ARENA SPORT 3 SR - ARENA SPORT 3 SR
+http://s02.bihnet.net:80/live?channelId=44&uid=246&deviceUser=sajce&devicePass=sajce
+#EXTINF:0,ARENA SPORT 4 SR - ARENA SPORT 4 SR
+http://s02.bihnet.net:80/live?channelId=45&uid=246&deviceUser=sajce&devicePass=sajce
+#EXTINF:0,ARENA SPORT 5 SR - ARENA SPORT 5 SR
+http://s02.bihnet.net:80/live?channelId=46&uid=246&deviceUser=sajce&devicePass=sajce
+#EXTINF:0,ARENA SPORT 1 HR - ARENA SPORT 1 HR
+http://s02.bihnet.net:80/live?channelId=160&uid=246&deviceUser=sajce&devicePass=sajce
+#EXTINF:0,ARENA SPORT 2 HD HR - ARENA SPORT 2 HD HR
+http://s02.bihnet.net:80/live?channelId=161&uid=246&deviceUser=sajce&devicePass=sajce
+#EXTINF:0,ARENA SPORT 3 HD - ARENA SPORT 3 HD
+http://s02.bihnet.net:80/live?channelId=162&uid=246&deviceUser=sajce&devicePass=sajce
+#EXTINF:0,ARENA SPORT 4 HR - ARENA SPORT 4 HR
+http://s02.bihnet.net:80/live?channelId=163&uid=246&deviceUser=sajce&devicePass=sajce
+#EXTINF:0,SPORT KLUB 1 HR - SPORT KLUB 1 HR
+http://s02.bihnet.net:80/live?channelId=47&uid=246&deviceUser=sajce&devicePass=sajce
+#EXTINF:0,SPORT KLUB 2 HR - SPORT KLUB 2 HR
+http://s02.bihnet.net:80/live?channelId=147&uid=246&deviceUser=sajce&devicePass=sajce
+#EXTINF:0,SPORT KLUB 3 HR - SPORT KLUB 3 HR
+http://s02.bihnet.net:80/live?channelId=148&uid=246&deviceUser=sajce&devicePass=sajce
+#EXTINF:0,SPORT KLUB 1 HD - SPORT KLUB 1 HD
+http://s02.bihnet.net:80/live?channelId=146&uid=246&deviceUser=sajce&devicePass=sajce
+#EXTINF:0,SPORT KLUB 2 - SPORT KLUB 2
+http://s02.bihnet.net:80/live?channelId=48&uid=246&deviceUser=sajce&devicePass=sajce
+#EXTINF:0,SPORT KLUB 3 - SPORT KLUB 3
+http://s02.bihnet.net:80/live?channelId=49&uid=246&deviceUser=sajce&devicePass=sajce
+#EXTINF:0,SPORT KLUB 4 - SPORT KLUB 4
+http://s04.bihnet.net:80/live?channelId=237&uid=246&deviceUser=sajce&devicePass=sajce
+#EXTINF:0,SPORT KLUB 5 - SPORT KLUB 5
+http://s04.bihnet.net:80/live?channelId=238&uid=246&deviceUser=sajce&devicePass=sajce
+#EXTINF:0,SPORT KLUB 6 - SPORT KLUB 6
+http://s04.bihnet.net:80/live?channelId=239&uid=246&deviceUser=sajce&devicePass=sajce
+#EXTINF:0,EX-YU - Arena Sport 1 SRB
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/3570.ts
+#EXTINF:0,EX-YU - Arena Sport 2 SRB
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/3571.ts
+#EXTINF:0,EX-YU - Arena Sport 3 SRB
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/3572.ts
+#EXTINF:0,EX-YU - Arena Sport 4 SRB
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/3573.ts
+#EXTINF:0,EX-YU - Arena Sport 5 SRB
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/3574.ts
+#EXTINF:0,EX-YU - Sport Klub 1 SRB
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/1908.ts
+#EXTINF:0,EX-YU - Sport Klub 2 SRB
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/1907.ts
+#EXTINF:0,EX-YU - Sport Klub 3 SRB
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/1906.ts
+#EXTINF:0,EX-YU - Sport Klub 4 SRB
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/3568.ts
+#EXTINF:0,EX-YU - Sport Klub 5 SRB
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/3567.ts
+#EXTINF:0,EX-YU - Sport Klub 6 SRB
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/3566.ts
+#EXTINF:0,EX-YU - Sport Klub 1 SRB FullHD
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/5474.ts
+#EXTINF:0,EX-YU - Sport Klub 2 SRB FullHD
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/5475.ts
+#EXTINF:0,EX-YU - Sport Klub 3 SRB FullHD
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/5476.ts
+#EXTINF:0,EX-YU - Arena Sport 2 HR
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/1969.ts
+#EXTINF:0,EX-YU - Arena Sport 3 HR
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/1968.ts
+#EXTINF:0,EX-YU - Arena Sport 4 HR
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/1967.ts
+#EXTINF:0,EX-YU - Arena Sport 5 HR
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/3569.ts
+#EXTINF:0,EX-YU - Arena Sport 1 HR FullHD
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/5469.ts
+#EXTINF:0,EX-YU - Arena Sport 2 HR FullHD
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/5470.ts
+#EXTINF:0,EX-YU - Arena Sport 3 HR FullHD
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/5471.ts
+#EXTINF:0,EX-YU - Arena Sport 4 HR FullHD
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/5472.ts
+#EXTINF:0,EX-YU - Arena Sport 5 HR FullHD
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/5473.ts
+#EXTINF:0,EX-YU - Sport Klub 1 HR
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/3576.ts
+#EXTINF:0,EX-YU - Sport Klub 2 HR
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/3577.ts
+#EXTINF:0,EX-YU - Sport Klub 3 HR
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/3578.ts
+#EXTINF:0,EX-YU - EuroSport 1 HD
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/1957.ts
+#EXTINF:0,EX-YU - EuroSport 2 HD
+http://spirit01.webhop.me:8000/live/MKwhdvW43P/IIiM3e78SW/1956.ts
+#EXTINF:0,ARENA SPORT 1HD - ARENA SPORT 1HD
+http://178.132.219.102:80/live?channelId=51&uid=68&deviceMac=00:1a:79:2d:0b:52
+#EXTINF:0,ARENASPORT 2HD - ARENASPORT 2HD
+http://178.132.219.102:80/live?channelId=53&uid=68&deviceMac=00:1a:79:2d:0b:52
+#EXTINF:0,ARENASPORT 3HD - ARENASPORT 3HD
+http://178.132.219.102:80/live?channelId=59&uid=68&deviceMac=00:1a:79:2d:0b:52
+#EXTINF:0,ARENASPORT 4HD - ARENASPORT 4HD
+http://178.132.219.102:80/live?channelId=63&uid=68&deviceMac=00:1a:79:2d:0b:52
+#EXTINF:0,SPORT KLUB 1 - SPORT KLUB 1
+http://178.132.219.102:80/live?channelId=69&uid=68&deviceMac=00:1a:79:2d:0b:52
+#EXTINF:0,SPORT KLUB 2 - SPORT KLUB 2
+http://178.132.219.102:80/live?channelId=75&uid=68&deviceMac=00:1a:79:2d:0b:52
+#EXTINF:0,SPORT KLUB 3 - SPORT KLUB 3
+http://178.132.219.102:80/live?channelId=76&uid=68&deviceMac=00:1a:79:2d:0b:52
+#EXTINF:0,SPORT KLUB 4 - SPORT KLUB 4
+http://178.132.219.102:80/live?channelId=17&uid=68&deviceMac=00:1a:79:2d:0b:52
+#EXTINF:0,Arena Sport 1 HD
+http://bfc.loginto.me:8000/live/corrado2/corrado2/2314.ts
+#EXTINF:0,Arena Sport 1 Srb
+http://bfc.loginto.me:8000/live/corrado2/corrado2/2318.ts
+#EXTINF:0,Arena Sport 2 HD
+http://bfc.loginto.me:8000/live/corrado2/corrado2/2315.ts
+#EXTINF:0,Arena Sport 2 Srb
+http://bfc.loginto.me:8000/live/corrado2/corrado2/2319.ts
+#EXTINF:0,Arena Sport 3 HD
+http://bfc.loginto.me:8000/live/corrado2/corrado2/2316.ts
+#EXTINF:0,Arena Sport 3 Srb
+http://bfc.loginto.me:8000/live/corrado2/corrado2/2320.ts
+#EXTINF:0,Arena Sport 4 HD
+http://bfc.loginto.me:8000/live/corrado2/corrado2/2317.ts
+#EXTINF:0,Arena Sport 4 Srb
+http://bfc.loginto.me:8000/live/corrado2/corrado2/2321.ts
+#EXTINF:0,Arena Sport 5 HD
+http://bfc.loginto.me:8000/live/corrado2/corrado2/3176.ts
+#EXTINF:0,Arena Sport 5 Srb
+http://bfc.loginto.me:8000/live/corrado2/corrado2/3177.ts
+#EXTINF:0,Sport Klub 1 Srb
+http://bfc.loginto.me:8000/live/corrado2/corrado2/2311.ts
+#EXTINF:0,Sport Klub 2 Srb
+http://bfc.loginto.me:8000/live/corrado2/corrado2/2312.ts
+#EXTINF:0,Sport Klub 3 Srb
+http://bfc.loginto.me:8000/live/corrado2/corrado2/2313.ts
+#EXTINF:0,ARENA HD 2 HR - ARENA_HD_2_HR
+http://iptv.radiokafic.com:80/live?channelId=21&uid=23347&deviceUser=77adnan&devicePass=adnan222
+#EXTINF:0,ARENA HD 3 HR - ARENA_HD_3_HR
+http://iptv.radiokafic.com:80/live?channelId=22&uid=23347&deviceUser=77adnan&devicePass=adnan222
+#EXTINF:0,ARENA HD 4 HR - ARENA_HD_4_HR
+http://iptv.radiokafic.com:80/live?channelId=23&uid=23347&deviceUser=77adnan&devicePass=adnan222
+#EXTINF:0,ARENA HD 5 HR - ARENA_HD_5_HR
+http://nl01.radiokafic.com:80/live?channelId=123&uid=23347&deviceUser=77adnan&devicePass=adnan222
+#EXTINF:0,ARENA HD 6 HR - ARENA_HD_6_HR
+http://nl01.radiokafic.com:80/live?channelId=464&uid=23347&deviceUser=77adnan&devicePass=adnan222
+#EXTINF:0,ARENA SPORT 1HD - ARENA SPORT 1HD
+http://178.132.219.102:80/live?channelId=51&uid=50&deviceUser=1&devicePass=1
+#EXTINF:0,ARENASPORT 2HD - ARENASPORT 2HD
+http://178.132.219.102:80/live?channelId=53&uid=50&deviceUser=1&devicePass=1
+#EXTINF:0,ARENASPORT 3HD - ARENASPORT 3HD
+http://178.132.219.102:80/live?channelId=59&uid=50&deviceUser=1&devicePass=1
+#EXTINF:0,ARENASPORT 4HD - ARENASPORT 4HD
+http://178.132.219.102:80/live?channelId=63&uid=50&deviceUser=1&devicePass=1
+#EXTINF:0,SPORT KLUB 1 - SPORT KLUB 1
+http://178.132.219.102:80/live?channelId=69&uid=50&deviceUser=1&devicePass=1
+#EXTINF:0,SPORT KLUB 2 - SPORT KLUB 2
+http://178.132.219.102:80/live?channelId=75&uid=50&deviceUser=1&devicePass=1
+#EXTINF:0,SPORT KLUB 3 - SPORT KLUB 3
+http://178.132.219.102:80/live?channelId=76&uid=50&deviceUser=1&devicePass=1
+#EXTINF:0,SPORT KLUB 4 - SPORT KLUB 4
+http://178.132.219.102:80/live?channelId=17&uid=50&deviceUser=1&devicePass=1
+#EXTINF:0,ARENA SPORT 1HD - ARENA SPORT 1HD
+http://178.132.219.102:80/live?channelId=51&uid=942&deviceUser=lili&devicePass=lili
+#EXTINF:0,ARENASPORT 2HD - ARENASPORT 2HD
+http://178.132.219.102:80/live?channelId=53&uid=942&deviceUser=lili&devicePass=lili
+#EXTINF:0,ARENASPORT 3HD - ARENASPORT 3HD
+http://178.132.219.102:80/live?channelId=59&uid=942&deviceUser=lili&devicePass=lili
+#EXTINF:0,ARENASPORT 4HD - ARENASPORT 4HD
+http://178.132.219.102:80/live?channelId=63&uid=942&deviceUser=lili&devicePass=lili
+#EXTINF:0,SPORT KLUB 1 - SPORT KLUB 1
+http://178.132.219.102:80/live?channelId=69&uid=942&deviceUser=lili&devicePass=lili
+#EXTINF:0,SPORT KLUB 2 - SPORT KLUB 2
+http://178.132.219.102:80/live?channelId=75&uid=942&deviceUser=lili&devicePass=lili
+#EXTINF:0,SPORT KLUB 3 - SPORT KLUB 3
+http://178.132.219.102:80/live?channelId=76&uid=942&deviceUser=lili&devicePass=lili
+#EXTINF:0,SPORT KLUB 4 - SPORT KLUB 4
+http://178.132.219.102:80/live?channelId=17&uid=942&deviceUser=lili&devicePass=lili
+#EXTINF:0,Sport Klub 1 HD HR
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/17256.ts
+#EXTINF:0,Sport Klub 1 HR
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/17252.ts
+#EXTINF:0,Sport Klub 2 HD HR
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/17254.ts
+#EXTINF:0,Sport Klub 4 HR
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/17249.ts
+#EXTINF:0,Sport Klub 5 HR
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/17250.ts
+#EXTINF:0,Sport Klub 6 HR
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/17251.ts
+#EXTINF:0,Sport Klub 2 FHD RS
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/17257.ts
+#EXTINF:0,Sport Klub 3 FHD RS
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/17258.ts
+#EXTINF:0,Eurosport 1 RS
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/1443.ts
+#EXTINF:0,Eurosport 2 RS
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/1444.ts
+#EXTINF:0,Arena Sport 1 HR
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/1436.ts
+#EXTINF:0,Arena Sport 2 HR
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/1437.ts
+#EXTINF:0,Arena Sport 3 HR
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/1438.ts
+#EXTINF:0,Arena Sport 4 HR
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/1439.ts
+#EXTINF:0,Arena Sport 5 HR
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/13827.ts
+#EXTINF:0,Arena Sport 6 RS
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/13828.ts
+#EXTINF:0,Arena Sport 1 RS
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/3182.ts
+#EXTINF:0,Arena Sport 2 RS
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/3183.ts
+#EXTINF:0,Arena Sport 3 RS
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/3184.ts
+#EXTINF:0,Arena Sport 4 RS
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/3185.ts
+#EXTINF:0,Arena Sport 5 RS
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/3186.ts
+#EXTINF:0,Sport Klub 1 RS
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/13832.ts
+#EXTINF:0,Sport Klub 2 HR
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/13833.ts
+#EXTINF:0,Sport Klub 3 HR
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/13834.ts
+#EXTINF:0,Sport Klub 4 RS
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/13829.ts
+#EXTINF:0,Sport Klub 5 RS
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/13830.ts
+#EXTINF:0,Sport Klub 6 RS
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/13831.ts
+#EXTINF:0,Sport Klub 1 HD RS
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/1440.ts
+#EXTINF:0,Sport Klub 2 RS
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/1441.ts
+#EXTINF:0,Sport Klub 3 HD RS
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/1442.ts
+#EXTINF:0,Sportska TV HD HR
+http://clientportal.link:8080/live/oBRa4toCx2/SNTtxYfE83/13861.ts
+#EXTINF:0,Sport Klub 1 HD HR
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/17256.ts
+#EXTINF:0,Sport Klub 1 HR
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/17252.ts
+#EXTINF:0,Sport Klub 2 HD HR
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/17254.ts
+#EXTINF:0,Sport Klub 4 HR
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/17249.ts
+#EXTINF:0,Sport Klub 5 HR
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/17250.ts
+#EXTINF:0,Sport Klub 6 HR
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/17251.ts
+#EXTINF:0,FightBox FHD RS
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/17259.ts
+#EXTINF:0,Sport Klub 2 FHD RS
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/17257.ts
+#EXTINF:0,Sport Klub 3 FHD RS
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/17258.ts
+#EXTINF:0,FightBox HR
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/13803.ts
+#EXTINF:0,Eurosport 1 RS
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/1443.ts
+#EXTINF:0,Eurosport 2 RS
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/1444.ts
+#EXTINF:0,Arena Sport 1 HR
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/1436.ts
+#EXTINF:0,Arena Sport 2 HR
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/1437.ts
+#EXTINF:0,Arena Sport 3 HR
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/1438.ts
+#EXTINF:0,Arena Sport 4 HR
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/1439.ts
+#EXTINF:0,Arena Sport 5 HR
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/13827.ts
+#EXTINF:0,Arena Sport 6 RS
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/13828.ts
+#EXTINF:0,Arena Sport 1 RS
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/3182.ts
+#EXTINF:0,Arena Sport 2 RS
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/3183.ts
+#EXTINF:0,Arena Sport 3 RS
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/3184.ts
+#EXTINF:0,Arena Sport 4 RS
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/3185.ts
+#EXTINF:0,Arena Sport 5 RS
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/3186.ts
+#EXTINF:0,Sport Klub 1 RS
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/13832.ts
+#EXTINF:0,Sport Klub 2 HR
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/13833.ts
+#EXTINF:0,Sport Klub 3 HR
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/13834.ts
+#EXTINF:0,Sport Klub 4 RS
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/13829.ts
+#EXTINF:0,Sport Klub 5 RS
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/13830.ts
+#EXTINF:0,Sport Klub 6 RS
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/13831.ts
+#EXTINF:0,Sport Klub 1 HD RS
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/1440.ts
+#EXTINF:0,Sport Klub 2 RS
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/1441.ts
+#EXTINF:0,Sport Klub 3 HD RS
+http://clientportal.link:8080/live/Peter_Mayer/ChIH8nut0Z/1442.ts
+#EXTINF:0,EX-YU: ARENA SPORT 1 HR
+http://clientportalpro.com:2500/live/WYU6l7VGFy/2IxoPj4SzO/1543.ts
+#EXTINF:0,EX-YU: ARENA SPORT 1 SBR
+http://clientportalpro.com:2500/live/WYU6l7VGFy/2IxoPj4SzO/1548.ts
+#EXTINF:0,EX-YU: ARENA SPORT 2 HR
+http://clientportalpro.com:2500/live/WYU6l7VGFy/2IxoPj4SzO/1544.ts
+#EXTINF:0,EX-YU: ARENA SPORT 2 SBR
+http://clientportalpro.com:2500/live/WYU6l7VGFy/2IxoPj4SzO/1549.ts
+#EXTINF:0,EX-YU: ARENA SPORT 3 HR
+http://clientportalpro.com:2500/live/WYU6l7VGFy/2IxoPj4SzO/1545.ts
+#EXTINF:0,EX-YU: ARENA SPORT 3 SBR
+http://clientportalpro.com:2500/live/WYU6l7VGFy/2IxoPj4SzO/1550.ts
+#EXTINF:0,EX-YU: ARENA SPORT 4 HR
+http://clientportalpro.com:2500/live/WYU6l7VGFy/2IxoPj4SzO/1546.ts
+#EXTINF:0,EX-YU: ARENA SPORT 4 SBR
+http://clientportalpro.com:2500/live/WYU6l7VGFy/2IxoPj4SzO/1551.ts
+#EXTINF:0,EX-YU: ARENA SPORT 5 HR
+http://clientportalpro.com:2500/live/WYU6l7VGFy/2IxoPj4SzO/1547.ts
+#EXTINF:0,Ex-Yu: ARENA SPORT 5 SRB
+http://clientportalpro.com:2500/live/WYU6l7VGFy/2IxoPj4SzO/3677.ts
+#EXTINF:0,EX-YU: Sport Klub 1
+http://clientportalpro.com:2500/live/WYU6l7VGFy/2IxoPj4SzO/1967.ts
+#EXTINF:0,EX-YU: Sport Klub 2
+http://clientportalpro.com:2500/live/WYU6l7VGFy/2IxoPj4SzO/1968.ts
+#EXTINF:0,EX-YU: SPORT KLUB 3
+http://clientportalpro.com:2500/live/WYU6l7VGFy/2IxoPj4SzO/2100.ts
+#EXTINF:0,Ex-Yu: SPORT KLUB 4 HD
+http://clientportalpro.com:2500/live/WYU6l7VGFy/2IxoPj4SzO/3678.ts
+#EXTINF:0,Ex-Yu: SPORT KLUB 5 HD
+http://clientportalpro.com:2500/live/WYU6l7VGFy/2IxoPj4SzO/3679.ts
+#EXTINF:0,Sport Klub 1 HD HR
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/17256.ts
+#EXTINF:0,Sport Klub 1 HR
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/17252.ts
+#EXTINF:0,Sport Klub 2 HD HR
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/17254.ts
+#EXTINF:0,Sport Klub 4 HR
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/17249.ts
+#EXTINF:0,Sport Klub 5 HR
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/17250.ts
+#EXTINF:0,Sport Klub 6 HR
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/17251.ts
+#EXTINF:0,Eurosport 1 RS
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/1443.ts
+#EXTINF:0,Eurosport 2 RS
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/1444.ts
+#EXTINF:0,Arena Sport 1 HR
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/1436.ts
+#EXTINF:0,Arena Sport 2 HR
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/1437.ts
+#EXTINF:0,Arena Sport 3 HR
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/1438.ts
+#EXTINF:0,Arena Sport 4 HR
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/1439.ts
+#EXTINF:0,Arena Sport 5 HR
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/13827.ts
+#EXTINF:0,Arena Sport 6 RS
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/13828.ts
+#EXTINF:0,Arena Sport 1 RS
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/3182.ts
+#EXTINF:0,Arena Sport 2 RS
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/3183.ts
+#EXTINF:0,Arena Sport 3 RS
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/3184.ts
+#EXTINF:0,Arena Sport 4 RS
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/3185.ts
+#EXTINF:0,Arena Sport 5 RS
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/3186.ts
+#EXTINF:0,Sport Klub 1 RS
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/13832.ts
+#EXTINF:0,Sport Klub 2 HR
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/13833.ts
+#EXTINF:0,Sport Klub 3 HR
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/13834.ts
+#EXTINF:0,Sport Klub 4 RS
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/13829.ts
+#EXTINF:0,Sport Klub 5 RS
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/13830.ts
+#EXTINF:0,Sport Klub 6 RS
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/13831.ts
+#EXTINF:0,Sport Klub 1 HD RS
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/1440.ts
+#EXTINF:0,Sport Klub 2 RS
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/1441.ts
+#EXTINF:0,Sport Klub 3 HD RS
+http://clientportal.link:8080/live/k8K37qBaRe/dXVelQu36b/1442.ts
+#EXTINF:0,Sport Klub 1 HD HR
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/17256.ts
+#EXTINF:0,Sport Klub 1 HR
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/17252.ts
+#EXTINF:0,Sport Klub 2 HD HR
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/17254.ts
+#EXTINF:0,Sport Klub 4 HR
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/17249.ts
+#EXTINF:0,Sport Klub 5 HR
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/17250.ts
+#EXTINF:0,Sport Klub 6 HR
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/17251.ts
+#EXTINF:0,Eurosport 1 RS
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/1443.ts
+#EXTINF:0,Eurosport 2 RS
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/1444.ts
+#EXTINF:0,Arena Sport 1 HR
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/1436.ts
+#EXTINF:0,Arena Sport 2 HR
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/1437.ts
+#EXTINF:0,Arena Sport 3 HR
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/1438.ts
+#EXTINF:0,Arena Sport 4 HR
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/1439.ts
+#EXTINF:0,Arena Sport 5 HR
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/13827.ts
+#EXTINF:0,Arena Sport 6 RS
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/13828.ts
+#EXTINF:0,Arena Sport 1 RS
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/3182.ts
+#EXTINF:0,Arena Sport 2 RS
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/3183.ts
+#EXTINF:0,Arena Sport 3 RS
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/3184.ts
+#EXTINF:0,Arena Sport 4 RS
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/3185.ts
+#EXTINF:0,Arena Sport 5 RS
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/3186.ts
+#EXTINF:0,Sport Klub 1 RS
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/13832.ts
+#EXTINF:0,Sport Klub 2 HR
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/13833.ts
+#EXTINF:0,Sport Klub 3 HR
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/13834.ts
+#EXTINF:0,Sport Klub 4 RS
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/13829.ts
+#EXTINF:0,Sport Klub 5 RS
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/13830.ts
+#EXTINF:0,Sport Klub 6 RS
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/13831.ts
+#EXTINF:0,Sport Klub 1 HD RS
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/1440.ts
+#EXTINF:0,Sport Klub 2 RS
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/1441.ts
+#EXTINF:0,Sport Klub 3 HD RS
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/1442.ts
+#EXTINF:0,Partizan TV RS
+http://clientportal.link:8080/live/nhqdAP172L/QbbF9aNuv4/16401.ts
+#EXTINF:0,Sport Klub 1 HD HR
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/17256.ts
+#EXTINF:0,Sport Klub 1 HR
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/17252.ts
+#EXTINF:0,Sport Klub 2 HD HR
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/17254.ts
+#EXTINF:0,Sport Klub 4 HR
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/17249.ts
+#EXTINF:0,Sport Klub 5 HR
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/17250.ts
+#EXTINF:0,Sport Klub 6 HR
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/17251.ts
+#EXTINF:0,Eurosport 1 RS
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/1443.ts
+#EXTINF:0,Eurosport 2 RS
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/1444.ts
+#EXTINF:0,Arena Sport 1 HR
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/1436.ts
+#EXTINF:0,Arena Sport 2 HR
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/1437.ts
+#EXTINF:0,Arena Sport 3 HR
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/1438.ts
+#EXTINF:0,Arena Sport 4 HR
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/1439.ts
+#EXTINF:0,Arena Sport 5 HR
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/13827.ts
+#EXTINF:0,Arena Sport 6 RS
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/13828.ts
+#EXTINF:0,Arena Sport 1 RS
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/3182.ts
+#EXTINF:0,Arena Sport 2 RS
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/3183.ts
+#EXTINF:0,Arena Sport 3 RS
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/3184.ts
+#EXTINF:0,Arena Sport 4 RS
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/3185.ts
+#EXTINF:0,Arena Sport 5 RS
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/3186.ts
+#EXTINF:0,Sport Klub 1 RS
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/13832.ts
+#EXTINF:0,Sport Klub 2 HR
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/13833.ts
+#EXTINF:0,Sport Klub 3 HR
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/13834.ts
+#EXTINF:0,Sport Klub 4 RS
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/13829.ts
+#EXTINF:0,Sport Klub 5 RS
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/13830.ts
+#EXTINF:0,Sport Klub 6 RS
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/13831.ts
+#EXTINF:0,Sport Klub 1 HD RS
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/1440.ts
+#EXTINF:0,Sport Klub 2 RS
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/1441.ts
+#EXTINF:0,Sport Klub 3 HD RS
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/1442.ts
+#EXTINF:0,Partizan TV RS
+http://clientportal.link:8080/live/m62LUbrvSG/Y3E3pfSXKb/16401.ts
+#EXTINF:0,Sport Klub 1 HD HR
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/17256.ts
+#EXTINF:0,Sport Klub 1 HR
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/17252.ts
+#EXTINF:0,Sport Klub 2 HD HR
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/17254.ts
+#EXTINF:0,Sport Klub 4 HR
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/17249.ts
+#EXTINF:0,Sport Klub 5 HR
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/17250.ts
+#EXTINF:0,Sport Klub 6 HR
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/17251.ts
+#EXTINF:0,Eurosport 1 RS
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/1443.ts
+#EXTINF:0,Eurosport 2 RS
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/1444.ts
+#EXTINF:0,Arena Sport 1 HR
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/1436.ts
+#EXTINF:0,Arena Sport 2 HR
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/1437.ts
+#EXTINF:0,Arena Sport 3 HR
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/1438.ts
+#EXTINF:0,Arena Sport 4 HR
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/1439.ts
+#EXTINF:0,Arena Sport 5 HR
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/13827.ts
+#EXTINF:0,Arena Sport 6 RS
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/13828.ts
+#EXTINF:0,Arena Sport 1 RS
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/3182.ts
+#EXTINF:0,Arena Sport 2 RS
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/3183.ts
+#EXTINF:0,Arena Sport 3 RS
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/3184.ts
+#EXTINF:0,Arena Sport 4 RS
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/3185.ts
+#EXTINF:0,Arena Sport 5 RS
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/3186.ts
+#EXTINF:0,Sport Klub 1 RS
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/13832.ts
+#EXTINF:0,Sport Klub 2 HR
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/13833.ts
+#EXTINF:0,Sport Klub 3 HR
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/13834.ts
+#EXTINF:0,Sport Klub 4 RS
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/13829.ts
+#EXTINF:0,Sport Klub 5 RS
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/13830.ts
+#EXTINF:0,Sport Klub 6 RS
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/13831.ts
+#EXTINF:0,Sport Klub 1 HD RS
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/1440.ts
+#EXTINF:0,Sport Klub 2 RS
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/1441.ts
+#EXTINF:0,Sport Klub 3 HD RS
+http://clients.clientportal.link:8080/live/jpA0kXyctN/oMCq5p0bTh/1442.ts
+#EXTINF:0,Sportska TV HD HR
+http://clients.clientportal.link:8080/live/RSP9kCLTtI/UoVXOHw1lK/13861.ts
+#EXTINF:0,ArenaSport 1 HD SR
+http://25.naski.net:8800/live/Dimce_Tosevski/g44zqDZtmE/520.ts
+#EXTINF:0,ArenaSport 2 HD SR
+http://25.naski.net:8800/live/Dimce_Tosevski/g44zqDZtmE/521.ts
+#EXTINF:0,ArenaSport 3 HD SR
+http://25.naski.net:8800/live/Dimce_Tosevski/g44zqDZtmE/522.ts
+#EXTINF:0,ArenaSport 4 HD SR
+http://25.naski.net:8800/live/Dimce_Tosevski/g44zqDZtmE/523.ts
+#EXTINF:0,Arena Sport 1 HR
+http://25.naski.net:8800/live/Dimce_Tosevski/g44zqDZtmE/514.ts
+#EXTINF:0,Arena Sport 2 HR
+http://25.naski.net:8800/live/Dimce_Tosevski/g44zqDZtmE/515.ts
+#EXTINF:0,Arena Sport 3 HR
+http://25.naski.net:8800/live/Dimce_Tosevski/g44zqDZtmE/516.ts
+#EXTINF:0,Arena Sport 4 HR
+http://25.naski.net:8800/live/Dimce_Tosevski/g44zqDZtmE/517.ts
+#EXTINF:0,Arena Sport 6 HR
+http://25.naski.net:8800/live/Dimce_Tosevski/g44zqDZtmE/519.ts
+#EXTINF:0,Arena Sport 5 HR
+http://25.naski.net:8800/live/Dimce_Tosevski/g44zqDZtmE/518.ts
+#EXTINF:0,ARENASPORT 1HD
+http://82.114.81.66:8000/live/lika/lika/438.ts
+#EXTINF:0,ARENA SPORT 2
+http://82.114.81.66:8000/live/lika/lika/439.ts
+#EXTINF:0,ARENA SPORT 3
+http://82.114.81.66:8000/live/lika/lika/440.ts
+#EXTINF:0,ARENA SPORT 4
+http://82.114.81.66:8000/live/lika/lika/441.ts
+#EXTINF:0,ARENASPORT 5
+http://82.114.81.66:8000/live/lika/lika/445.ts
+#EXTINF:0,SPORT KLUB 1
+http://82.114.81.66:8000/live/lika/lika/442.ts
+#EXTINF:0,SPORT KLUB 2
+http://82.114.81.66:8000/live/lika/lika/443.ts
+#EXTINF:0,SPORT KLUB 3
+http://82.114.81.66:8000/live/lika/lika/444.ts
