@@ -1,0 +1,621 @@
+#EXTM3U
+#EXTINF:0,Rai 1 HD
+http://213.136.90.30:8000/live/stas576/22221111/15737.ts
+#EXTINF:0,Rai 1 HD (B)
+http://213.136.90.30:8000/live/stas576/22221111/27292.ts
+#EXTINF:0,Rai 2 HD
+http://213.136.90.30:8000/live/stas576/22221111/15417.ts
+#EXTINF:0,Rai 2 HD (B)
+http://213.136.90.30:8000/live/stas576/22221111/27293.ts
+#EXTINF:0,Rai 3 HD
+http://213.136.90.30:8000/live/stas576/22221111/15418.ts
+#EXTINF:0,Rai 3 HD (B)
+http://213.136.90.30:8000/live/stas576/22221111/27294.ts
+#EXTINF:0,Rete 4 HD
+http://213.136.90.30:8000/live/stas576/22221111/15741.ts
+#EXTINF:0,Rete 4 HD (B)
+http://213.136.90.30:8000/live/stas576/22221111/27304.ts
+#EXTINF:0,Canale 5 HD
+http://213.136.90.30:8000/live/stas576/22221111/15739.ts
+#EXTINF:0,Canale 5 HD (B)
+http://213.136.90.30:8000/live/stas576/22221111/27295.ts
+#EXTINF:0,Italia 1 HD
+http://213.136.90.30:8000/live/stas576/22221111/15740.ts
+#EXTINF:0,Italia 1 HD (B)
+http://213.136.90.30:8000/live/stas576/22221111/27296.ts
+#EXTINF:0,Rai Sport  HD
+http://213.136.90.30:8000/live/stas576/22221111/34305.ts
+#EXTINF:0,RSI La 1 HD
+http://213.136.90.30:8000/live/stas576/22221111/25751.ts
+#EXTINF:0,RSI LA 1 HD (B)
+http://213.136.90.30:8000/live/stas576/22221111/27305.ts
+#EXTINF:0,RSI La 2 HD
+http://213.136.90.30:8000/live/stas576/22221111/25752.ts
+#EXTINF:0,RSI LA 2 HD (B)
+http://213.136.90.30:8000/live/stas576/22221111/27306.ts
+#EXTINF:0,Rai 4 HD
+http://213.136.90.30:8000/live/stas576/22221111/15419.ts
+#EXTINF:0,Rai 5 HD
+http://213.136.90.30:8000/live/stas576/22221111/25753.ts
+#EXTINF:0,La 5
+http://213.136.90.30:8000/live/stas576/22221111/15738.ts
+#EXTINF:0,La 7 HD
+http://213.136.90.30:8000/live/stas576/22221111/25754.ts
+#EXTINF:0,Italia 2
+http://213.136.90.30:8000/live/stas576/22221111/27297.ts
+#EXTINF:0,Mediaset Extra
+http://213.136.90.30:8000/live/stas576/22221111/25854.ts
+#EXTINF:0,Italian Fishing Tv
+http://213.136.90.30:8000/live/stas576/22221111/25856.ts
+#EXTINF:0,Globo News
+http://213.136.90.30:8000/live/stas576/22221111/32175.ts
+#EXTINF:0,Globo TV
+http://213.136.90.30:8000/live/stas576/22221111/22819.ts
+#EXTINF:0,Top Crime
+http://213.136.90.30:8000/live/stas576/22221111/30215.ts
+#EXTINF:0,------ EVENT CHANNELS (Live) ------
+http://213.136.90.30:8000/live/stas576/22221111/14896.ts
+#EXTINF:0,SportsNews 24hrs (Ita)
+http://213.136.90.30:8000/live/stas576/22221111/18972.ts
+#EXTINF:0,Sports News 24hrs (Uk)
+http://213.136.90.30:8000/live/stas576/22221111/18970.ts
+#EXTINF:0,Sports Mix (Ita)
+http://213.136.90.30:8000/live/stas576/22221111/31233.ts
+#EXTINF:0,Formula 1  (Ita)
+http://213.136.90.30:8000/live/stas576/22221111/25674.ts
+#EXTINF:0,Moto GP  (Ita)
+http://213.136.90.30:8000/live/stas576/22221111/25675.ts
+#EXTINF:0,Super Tennis HD (ita)
+http://213.136.90.30:8000/live/stas576/22221111/32098.ts
+#EXTINF:0,Premier League (Eng)  Sky Sports 1 uk
+http://213.136.90.30:8000/live/stas576/22221111/21835.ts
+#EXTINF:0,MT - Milan Channel Live
+http://213.136.90.30:8000/live/stas576/22221111/34042.ts
+#EXTINF:0,AR - Bein Mena 11
+http://213.136.90.30:8000/live/stas576/22221111/33421.ts
+#EXTINF:0,AR - Bein Mena - Events
+http://213.136.90.30:8000/live/stas576/22221111/34245.ts
+#EXTINF:0,MT - Sky Sports 1 HD
+http://213.136.90.30:8000/live/stas576/22221111/33593.ts
+#EXTINF:0,MT - Sky Sports 3 HD
+http://213.136.90.30:8000/live/stas576/22221111/33591.ts
+#EXTINF:0,MT - Sky Calcio 1 HD
+http://213.136.90.30:8000/live/stas576/22221111/34000.ts
+#EXTINF:0,MT - Sky Calcio 2 HD
+http://213.136.90.30:8000/live/stas576/22221111/34001.ts
+#EXTINF:0,Dreamteam - Mr. Bean
+http://213.136.90.30:8000/live/stas576/22221111/34301.ts
+#EXTINF:0,Baby TV - MT
+http://213.136.90.30:8000/live/stas576/22221111/31769.ts
+#EXTINF:0,------------ UHD Channels ------------
+http://213.136.90.30:8000/live/stas576/22221111/34043.ts
+#EXTINF:0,AR - Bein Mena 11 UHD (Mag Box Only)
+http://213.136.90.30:8000/live/stas576/22221111/32564.ts
+#EXTINF:0,MT - Sky Sports 1 UHD (Mag Box Only)
+http://213.136.90.30:8000/live/stas576/22221111/33594.ts
+#EXTINF:0,MT - Sky Sports 3 UHD (Mag Box Only)
+http://213.136.90.30:8000/live/stas576/22221111/33592.ts
+#EXTINF:0,MT - Sky Calcio 1 UHD (Mag Box Only)
+http://213.136.90.30:8000/live/stas576/22221111/33746.ts
+#EXTINF:0,MT - Sky Calcio 2 UHD (Mag Box Only)
+http://213.136.90.30:8000/live/stas576/22221111/33646.ts
+#EXTINF:0,MT - Dreamteam UHD (Mag Box Only During Games)
+http://213.136.90.30:8000/live/stas576/22221111/33596.ts
+#EXTINF:0,------------ Live Football Games ------------
+http://213.136.90.30:8000/live/stas576/22221111/32884.ts
+#EXTINF:0,----------- Thursday 31st August -----------
+http://213.136.90.30:8000/live/stas576/22221111/33619.ts
+#EXTINF:0,20:45 - France Vs Netherland
+http://213.136.90.30:8000/live/stas576/22221111/34411.ts
+#EXTINF:0,20:45 - Portugal Vs Faroe Island
+http://213.136.90.30:8000/live/stas576/22221111/34412.ts
+#EXTINF:0,23:00 - Venezuela Vs Colombia
+http://213.136.90.30:8000/live/stas576/22221111/34414.ts
+#EXTINF:0,24:30 - Chile Vs Paraguay
+http://213.136.90.30:8000/live/stas576/22221111/34413.ts
+#EXTINF:0,1:00 - Uruguay Vs Argentina
+http://213.136.90.30:8000/live/stas576/22221111/34415.ts
+#EXTINF:0,2:45 - Brazil Vs Ecuador
+http://213.136.90.30:8000/live/stas576/22221111/34416.ts
+#EXTINF:0,----------- Friday 1st September -----------
+http://213.136.90.30:8000/live/stas576/22221111/33620.ts
+#EXTINF:0,18:00 - Nigeria Vs Cameroon
+http://213.136.90.30:8000/live/stas576/22221111/34417.ts
+#EXTINF:0,20:45 - Malta Vs England
+http://213.136.90.30:8000/live/stas576/22221111/34420.ts
+#EXTINF:0,20:45 - Czech Republic Vs Germany
+http://213.136.90.30:8000/live/stas576/22221111/34418.ts
+#EXTINF:0,20:45 - Danmark Vs Poland
+http://213.136.90.30:8000/live/stas576/22221111/34419.ts
+#EXTINF:0,---------- Saturday 2nd September ----------
+http://213.136.90.30:8000/live/stas576/22221111/33618.ts
+#EXTINF:0,18:00 - Giorgia Vs Ireland
+http://213.136.90.30:8000/live/stas576/22221111/34421.ts
+#EXTINF:0,18:00 - Serbia Vs Moldova
+http://213.136.90.30:8000/live/stas576/22221111/34422.ts
+#EXTINF:0,20:45 - Spain Vs Italy
+http://213.136.90.30:8000/live/stas576/22221111/34423.ts
+#EXTINF:0,20:45 - Ukraine Vs Turkey
+http://213.136.90.30:8000/live/stas576/22221111/34424.ts
+#EXTINF:0,20:45 - Wales Vs Austria
+http://213.136.90.30:8000/live/stas576/22221111/34425.ts
+#EXTINF:0,---------- Sunday 3rd September ----------
+http://213.136.90.30:8000/live/stas576/22221111/33617.ts
+#EXTINF:0,18:00 - Belarus Vs Sweden
+http://213.136.90.30:8000/live/stas576/22221111/34426.ts
+#EXTINF:0,18:00 - Netherlands Vs Bulgaria
+http://213.136.90.30:8000/live/stas576/22221111/34427.ts
+#EXTINF:0,20:45 - France Vs Luxembourg
+http://213.136.90.30:8000/live/stas576/22221111/34428.ts
+#EXTINF:0,20:45 - Greece Vs Belgium
+http://213.136.90.30:8000/live/stas576/22221111/34429.ts
+#EXTINF:0,20:45 - Hungary Vs Portugal
+http://213.136.90.30:8000/live/stas576/22221111/34430.ts
+#EXTINF:0,20:45 - Latvia Vs Switzerland
+http://213.136.90.30:8000/live/stas576/22221111/34431.ts
+#EXTINF:0,------------ MALTA TV CHANNELS ------------
+http://213.136.90.30:8000/live/stas576/22221111/13225.ts
+#EXTINF:0,MT - TVM HD
+http://213.136.90.30:8000/live/stas576/22221111/20803.ts
+#EXTINF:0,MT - TVM HD Live
+http://213.136.90.30:8000/live/stas576/22221111/25858.ts
+#EXTINF:0,MT - TVM  HD
+http://213.136.90.30:8000/live/stas576/22221111/31589.ts
+#EXTINF:0,MT - TVM 2 HD
+http://213.136.90.30:8000/live/stas576/22221111/20804.ts
+#EXTINF:0,MT - TVM 2  HD
+http://213.136.90.30:8000/live/stas576/22221111/31590.ts
+#EXTINF:0,MT - ONE TV HD
+http://213.136.90.30:8000/live/stas576/22221111/31367.ts
+#EXTINF:0,MT - ONE TV
+http://213.136.90.30:8000/live/stas576/22221111/11110.ts
+#EXTINF:0,MT - NET TV HD
+http://213.136.90.30:8000/live/stas576/22221111/31366.ts
+#EXTINF:0,MT - NET TV
+http://213.136.90.30:8000/live/stas576/22221111/11111.ts
+#EXTINF:0,MT - Parlament (B)
+http://213.136.90.30:8000/live/stas576/22221111/32563.ts
+#EXTINF:0,MT - SMASH TV (B)
+http://213.136.90.30:8000/live/stas576/22221111/20805.ts
+#EXTINF:0,MT - Xejk
+http://213.136.90.30:8000/live/stas576/22221111/27200.ts
+#EXTINF:0,MT - XEJK (B)
+http://213.136.90.30:8000/live/stas576/22221111/20802.ts
+#EXTINF:0,MT - F LIVING
+http://213.136.90.30:8000/live/stas576/22221111/22052.ts
+#EXTINF:0,MT - Smash TV
+http://213.136.90.30:8000/live/stas576/22221111/27205.ts
+#EXTINF:0,MT - Smash Music
+http://213.136.90.30:8000/live/stas576/22221111/27204.ts
+#EXTINF:0,MT - Smash Sports
+http://213.136.90.30:8000/live/stas576/22221111/27202.ts
+#EXTINF:0,MT - Smash Food
+http://213.136.90.30:8000/live/stas576/22221111/27203.ts
+#EXTINF:0,MT - Smash News
+http://213.136.90.30:8000/live/stas576/22221111/27201.ts
+#EXTINF:0,MT - Smash Politics
+http://213.136.90.30:8000/live/stas576/22221111/27208.ts
+#EXTINF:0,MT - Smash Teleshopping
+http://213.136.90.30:8000/live/stas576/22221111/27206.ts
+#EXTINF:0,------------ MALTESE RADIOS ------------
+http://213.136.90.30:8000/live/stas576/22221111/12489.ts
+#EXTINF:0,(R) Bay Radio
+http://213.136.90.30:8000/live/stas576/22221111/10112.ts
+#EXTINF:0,(R) Vibe FM
+http://213.136.90.30:8000/live/stas576/22221111/10121.ts
+#EXTINF:0,(R) Smash Radio
+http://213.136.90.30:8000/live/stas576/22221111/10123.ts
+#EXTINF:0,(R) Radio Malta
+http://213.136.90.30:8000/live/stas576/22221111/10122.ts
+#EXTINF:0,(R) Radio Luminaria
+http://213.136.90.30:8000/live/stas576/22221111/10120.ts
+#EXTINF:0,(R) Radio 101
+http://213.136.90.30:8000/live/stas576/22221111/10119.ts
+#EXTINF:0,(R) One Radio
+http://213.136.90.30:8000/live/stas576/22221111/10118.ts
+#EXTINF:0,(R) Magic Malta
+http://213.136.90.30:8000/live/stas576/22221111/10117.ts
+#EXTINF:0,(R) Kiss Malta
+http://213.136.90.30:8000/live/stas576/22221111/10124.ts
+#EXTINF:0,(R) Campus Fm
+http://213.136.90.30:8000/live/stas576/22221111/10116.ts
+#EXTINF:0,(R) Calypso Radio
+http://213.136.90.30:8000/live/stas576/22221111/10115.ts
+#EXTINF:0,(R) Bay Retro
+http://213.136.90.30:8000/live/stas576/22221111/10114.ts
+#EXTINF:0,(R) Bay Easy
+http://213.136.90.30:8000/live/stas576/22221111/10113.ts
+#EXTINF:0,------------ Sky Cinema ------------
+http://213.136.90.30:8000/live/stas576/22221111/15942.ts
+#EXTINF:0,Sky 3D
+http://213.136.90.30:8000/live/stas576/22221111/19325.ts
+#EXTINF:0,Sky Cinema 1 HD
+http://213.136.90.30:8000/live/stas576/22221111/15933.ts
+#EXTINF:0,Sky Cinema Uno HD +1
+http://213.136.90.30:8000/live/stas576/22221111/25846.ts
+#EXTINF:0,Sky Cinema +24 HD
+http://213.136.90.30:8000/live/stas576/22221111/34292.ts
+#EXTINF:0,Sky Cinema Family HD
+http://213.136.90.30:8000/live/stas576/22221111/18215.ts
+#EXTINF:0,Sky Cinema Comedy HD
+http://213.136.90.30:8000/live/stas576/22221111/18214.ts
+#EXTINF:0,Sky Cinema Max HD
+http://213.136.90.30:8000/live/stas576/22221111/22821.ts
+#EXTINF:0,Sky Cinema Max HD +1
+http://213.136.90.30:8000/live/stas576/22221111/34293.ts
+#EXTINF:0,Sky Cinema Hits HD
+http://213.136.90.30:8000/live/stas576/22221111/22822.ts
+#EXTINF:0,Sky Cinema Passion HD
+http://213.136.90.30:8000/live/stas576/22221111/15743.ts
+#EXTINF:0,Sky Cinema Passion HD (B)
+http://213.136.90.30:8000/live/stas576/22221111/30794.ts
+#EXTINF:0,Sky Cinema Cult HD
+http://213.136.90.30:8000/live/stas576/22221111/15744.ts
+#EXTINF:0,Sky Cinema Cult HD (CB)
+http://213.136.90.30:8000/live/stas576/22221111/30795.ts
+#EXTINF:0,Sky Cinema Classics
+http://213.136.90.30:8000/live/stas576/22221111/18213.ts
+#EXTINF:0,Paramount Channel
+http://213.136.90.30:8000/live/stas576/22221111/21858.ts
+#EXTINF:0,Sky Cinema Classics HD (CB)
+http://213.136.90.30:8000/live/stas576/22221111/30797.ts
+#EXTINF:0,Dreamteam - Cinema Totò
+http://213.136.90.30:8000/live/stas576/22221111/34295.ts
+#EXTINF:0,---------- Entertainment ----------
+http://213.136.90.30:8000/live/stas576/22221111/15943.ts
+#EXTINF:0,Sky Uno HD
+http://213.136.90.30:8000/live/stas576/22221111/15927.ts
+#EXTINF:0,Sky Uno HD (B)
+http://213.136.90.30:8000/live/stas576/22221111/28218.ts
+#EXTINF:0,Sky Uno HD +1
+http://213.136.90.30:8000/live/stas576/22221111/25847.ts
+#EXTINF:0,Sky Atlantic HD
+http://213.136.90.30:8000/live/stas576/22221111/15916.ts
+#EXTINF:0,Sky Atlantic HD +1
+http://213.136.90.30:8000/live/stas576/22221111/34297.ts
+#EXTINF:0,Sky Arte HD
+http://213.136.90.30:8000/live/stas576/22221111/25850.ts
+#EXTINF:0,Fox Animation HD
+http://213.136.90.30:8000/live/stas576/22221111/19324.ts
+#EXTINF:0,Fox HD
+http://213.136.90.30:8000/live/stas576/22221111/15924.ts
+#EXTINF:0,Fox Life HD
+http://213.136.90.30:8000/live/stas576/22221111/15920.ts
+#EXTINF:0,Fox Crime HD
+http://213.136.90.30:8000/live/stas576/22221111/15925.ts
+#EXTINF:0,Fox Comedy HD
+http://213.136.90.30:8000/live/stas576/22221111/34298.ts
+#EXTINF:0,E! Entertainment
+http://213.136.90.30:8000/live/stas576/22221111/15436.ts
+#EXTINF:0,AXN Sci-Fy
+http://213.136.90.30:8000/live/stas576/22221111/15917.ts
+#EXTINF:0,Lei
+http://213.136.90.30:8000/live/stas576/22221111/25760.ts
+#EXTINF:0,TV 2000
+http://213.136.90.30:8000/live/stas576/22221111/30214.ts
+#EXTINF:0,------------ SPORT ------------
+http://213.136.90.30:8000/live/stas576/22221111/25767.ts
+#EXTINF:0,Mosaico Sky sport
+http://213.136.90.30:8000/live/stas576/22221111/34296.ts
+#EXTINF:0,Sky Sports 24 HD
+http://213.136.90.30:8000/live/stas576/22221111/15883.ts
+#EXTINF:0,Sky Sports 24 HD (CB)
+http://213.136.90.30:8000/live/stas576/22221111/28192.ts
+#EXTINF:0,Sky Sports 1  HD
+http://213.136.90.30:8000/live/stas576/22221111/15907.ts
+#EXTINF:0,Sky Sports 1 HD (B)
+http://213.136.90.30:8000/live/stas576/22221111/34271.ts
+#EXTINF:0,Sky Sports 2 HD
+http://213.136.90.30:8000/live/stas576/22221111/32116.ts
+#EXTINF:0,Sky Sports 2 HD (B)
+http://213.136.90.30:8000/live/stas576/22221111/34272.ts
+#EXTINF:0,Sky Sports 3 HD
+http://213.136.90.30:8000/live/stas576/22221111/15909.ts
+#EXTINF:0,Sky Sports 3 HD (B)
+http://213.136.90.30:8000/live/stas576/22221111/34273.ts
+#EXTINF:0,Sky Sport Plus
+http://213.136.90.30:8000/live/stas576/22221111/34300.ts
+#EXTINF:0,Sky Sport Mix
+http://213.136.90.30:8000/live/stas576/22221111/34299.ts
+#EXTINF:0,Sky Bike Channel HD
+http://213.136.90.30:8000/live/stas576/22221111/19810.ts
+#EXTINF:0,Sky F1 HD
+http://213.136.90.30:8000/live/stas576/22221111/15931.ts
+#EXTINF:0,Sky F1 HD (B)
+http://213.136.90.30:8000/live/stas576/22221111/25228.ts
+#EXTINF:0,Sky F1 HD (CB)
+http://213.136.90.30:8000/live/stas576/22221111/28220.ts
+#EXTINF:0,Sky MotoGP HD
+http://213.136.90.30:8000/live/stas576/22221111/15879.ts
+#EXTINF:0,Dreamteam - MotoGP repliche 2017
+http://213.136.90.30:8000/live/stas576/22221111/34302.ts
+#EXTINF:0,SuperTennis HD
+http://213.136.90.30:8000/live/stas576/22221111/32117.ts
+#EXTINF:0,Super Tennis HD (B)
+http://213.136.90.30:8000/live/stas576/22221111/33472.ts
+#EXTINF:0,Super Tennis (CB)
+http://213.136.90.30:8000/live/stas576/22221111/30153.ts
+#EXTINF:0,Fox Sport (CB)
+http://213.136.90.30:8000/live/stas576/22221111/28204.ts
+#EXTINF:0,Fox Sport HD
+http://213.136.90.30:8000/live/stas576/22221111/15886.ts
+#EXTINF:0,Fox Sports HD (B)
+http://213.136.90.30:8000/live/stas576/22221111/34269.ts
+#EXTINF:0,Torino Channel
+http://213.136.90.30:8000/live/stas576/22221111/34304.ts
+#EXTINF:0,Milan Channel
+http://213.136.90.30:8000/live/stas576/22221111/17317.ts
+#EXTINF:0,J | Juventus TV
+http://213.136.90.30:8000/live/stas576/22221111/17318.ts
+#EXTINF:0,Juventus Channel (CB)
+http://213.136.90.30:8000/live/stas576/22221111/28239.ts
+#EXTINF:0,Inter Channel
+http://213.136.90.30:8000/live/stas576/22221111/17319.ts
+#EXTINF:0,Inter Channel (CB)
+http://213.136.90.30:8000/live/stas576/22221111/28201.ts
+#EXTINF:0,Roma TV
+http://213.136.90.30:8000/live/stas576/22221111/19323.ts
+#EXTINF:0,Lazio Style (CB)
+http://213.136.90.30:8000/live/stas576/22221111/28199.ts
+#EXTINF:0,Lazio Style Channel
+http://213.136.90.30:8000/live/stas576/22221111/21874.ts
+#EXTINF:0,Eurosport HD
+http://213.136.90.30:8000/live/stas576/22221111/15699.ts
+#EXTINF:0,Eurosport 2 HD
+http://213.136.90.30:8000/live/stas576/22221111/15700.ts
+#EXTINF:0,Fight Network Italia
+http://213.136.90.30:8000/live/stas576/22221111/25761.ts
+#EXTINF:0,Sportitalia
+http://213.136.90.30:8000/live/stas576/22221111/32113.ts
+#EXTINF:0,Class Horse Tv
+http://213.136.90.30:8000/live/stas576/22221111/25796.ts
+#EXTINF:0,WWE USA
+http://213.136.90.30:8000/live/stas576/22221111/34303.ts
+#EXTINF:0,------------ CALCIO ------------
+http://213.136.90.30:8000/live/stas576/22221111/15945.ts
+#EXTINF:0,Sky SuperCalcio HD
+http://213.136.90.30:8000/live/stas576/22221111/15912.ts
+#EXTINF:0,Sky SuperCalcio HD (B)
+http://213.136.90.30:8000/live/stas576/22221111/34270.ts
+#EXTINF:0,Sky Calcio 1 HD
+http://213.136.90.30:8000/live/stas576/22221111/15913.ts
+#EXTINF:0,Sky Calcio 2 HD
+http://213.136.90.30:8000/live/stas576/22221111/15914.ts
+#EXTINF:0,Sky Calcio 3 HD
+http://213.136.90.30:8000/live/stas576/22221111/15891.ts
+#EXTINF:0,Sky Calcio 4 HD
+http://213.136.90.30:8000/live/stas576/22221111/15892.ts
+#EXTINF:0,Sky Calcio 5 HD
+http://213.136.90.30:8000/live/stas576/22221111/15890.ts
+#EXTINF:0,Sky Calcio 6 HD
+http://213.136.90.30:8000/live/stas576/22221111/15889.ts
+#EXTINF:0,Sky Calcio 7 HD
+http://213.136.90.30:8000/live/stas576/22221111/15888.ts
+#EXTINF:0,Sky Calcio 8 HD
+http://213.136.90.30:8000/live/stas576/22221111/15887.ts
+#EXTINF:0,Sky Calcio 9 HD
+http://213.136.90.30:8000/live/stas576/22221111/25762.ts
+#EXTINF:0,---------- LEGA Pro ----------
+http://213.136.90.30:8000/live/stas576/22221111/34377.ts
+#EXTINF:0,Serie-C Catania
+http://213.136.90.30:8000/live/stas576/22221111/34357.ts
+#EXTINF:0,Serie-C Lecce
+http://213.136.90.30:8000/live/stas576/22221111/34356.ts
+#EXTINF:0,Serie-C Reggina
+http://213.136.90.30:8000/live/stas576/22221111/34355.ts
+#EXTINF:0,Serie-C Akragas
+http://213.136.90.30:8000/live/stas576/22221111/34351.ts
+#EXTINF:0,Serie-C Casertana
+http://213.136.90.30:8000/live/stas576/22221111/34348.ts
+#EXTINF:0,Serie-C Cosenza
+http://213.136.90.30:8000/live/stas576/22221111/34353.ts
+#EXTINF:0,Serie-C Fidelis Andria
+http://213.136.90.30:8000/live/stas576/22221111/34349.ts
+#EXTINF:0,Serie-C Juve Stabia
+http://213.136.90.30:8000/live/stas576/22221111/34350.ts
+#EXTINF:0,Serie-C Pisa
+http://213.136.90.30:8000/live/stas576/22221111/34352.ts
+#EXTINF:0,Serie-C Trapani
+http://213.136.90.30:8000/live/stas576/22221111/34354.ts
+#EXTINF:0,Serie-C 11
+http://213.136.90.30:8000/live/stas576/22221111/34347.ts
+#EXTINF:0,Serie-C 12
+http://213.136.90.30:8000/live/stas576/22221111/34346.ts
+#EXTINF:0,Serie-C 13
+http://213.136.90.30:8000/live/stas576/22221111/34345.ts
+#EXTINF:0,Serie-C 14
+http://213.136.90.30:8000/live/stas576/22221111/34344.ts
+#EXTINF:0,Serie-C 15
+http://213.136.90.30:8000/live/stas576/22221111/34343.ts
+#EXTINF:0,------------ Cultura ------------
+http://213.136.90.30:8000/live/stas576/22221111/9533.ts
+#EXTINF:0,Sky National Geo HD
+http://213.136.90.30:8000/live/stas576/22221111/19784.ts
+#EXTINF:0,Sky National Geo HD (B)
+http://213.136.90.30:8000/live/stas576/22221111/33465.ts
+#EXTINF:0,Sky National Geo HD +1
+http://213.136.90.30:8000/live/stas576/22221111/34306.ts
+#EXTINF:0,Sky Nat Geo People HD
+http://213.136.90.30:8000/live/stas576/22221111/19790.ts
+#EXTINF:0,Sky Nat Geo People HD (B)
+http://213.136.90.30:8000/live/stas576/22221111/33467.ts
+#EXTINF:0,Sky Nat Geo Wild HD
+http://213.136.90.30:8000/live/stas576/22221111/15818.ts
+#EXTINF:0,Sky Nat Geo Wild HD (B)
+http://213.136.90.30:8000/live/stas576/22221111/33466.ts
+#EXTINF:0,Sky Discovery Channel HD
+http://213.136.90.30:8000/live/stas576/22221111/19785.ts
+#EXTINF:0,Sky Discovery Channel HD +1
+http://213.136.90.30:8000/live/stas576/22221111/34307.ts
+#EXTINF:0,Sky Discovery Science HD
+http://213.136.90.30:8000/live/stas576/22221111/13696.ts
+#EXTINF:0,Sky History HD
+http://213.136.90.30:8000/live/stas576/22221111/15797.ts
+#EXTINF:0,Sky Gambero Rosso HD
+http://213.136.90.30:8000/live/stas576/22221111/19550.ts
+#EXTINF:0,Discovery Travel & Living HD
+http://213.136.90.30:8000/live/stas576/22221111/21876.ts
+#EXTINF:0,Discovery T&L 1 HD
+http://213.136.90.30:8000/live/stas576/22221111/25769.ts
+#EXTINF:0,Cielo HD
+http://213.136.90.30:8000/live/stas576/22221111/33471.ts
+#EXTINF:0,DMAX
+http://213.136.90.30:8000/live/stas576/22221111/15764.ts
+#EXTINF:0,D Giallo
+http://213.136.90.30:8000/live/stas576/22221111/15798.ts
+#EXTINF:0,Animal Planet
+http://213.136.90.30:8000/live/stas576/22221111/21875.ts
+#EXTINF:0,Caccia
+http://213.136.90.30:8000/live/stas576/22221111/21852.ts
+#EXTINF:0,Pesca TV
+http://213.136.90.30:8000/live/stas576/22221111/25771.ts
+#EXTINF:0,Caccia TV
+http://213.136.90.30:8000/live/stas576/22221111/25772.ts
+#EXTINF:0,Super!
+http://213.136.90.30:8000/live/stas576/22221111/25790.ts
+#EXTINF:0,TopCrime
+http://213.136.90.30:8000/live/stas576/22221111/25855.ts
+#EXTINF:0,Investigation Discovery
+http://213.136.90.30:8000/live/stas576/22221111/19809.ts
+#EXTINF:0,CI Crime Investigation HD
+http://213.136.90.30:8000/live/stas576/22221111/15770.ts
+#EXTINF:0,Comedy Central Italia
+http://213.136.90.30:8000/live/stas576/22221111/25797.ts
+#EXTINF:0,D Real Time
+http://213.136.90.30:8000/live/stas576/22221111/25774.ts
+#EXTINF:0,Alice (B)
+http://213.136.90.30:8000/live/stas576/22221111/27299.ts
+#EXTINF:0,Focus
+http://213.136.90.30:8000/live/stas576/22221111/25770.ts
+#EXTINF:0,Marcopolo
+http://213.136.90.30:8000/live/stas576/22221111/15835.ts
+#EXTINF:0,Explora HD
+http://213.136.90.30:8000/live/stas576/22221111/15772.ts
+#EXTINF:0,Fine living
+http://213.136.90.30:8000/live/stas576/22221111/15777.ts
+#EXTINF:0,------------ Bambini/ Kids ------------
+http://213.136.90.30:8000/live/stas576/22221111/15947.ts
+#EXTINF:0,Disney Channel HD
+http://213.136.90.30:8000/live/stas576/22221111/15675.ts
+#EXTINF:0,Disney Channel +1
+http://213.136.90.30:8000/live/stas576/22221111/25785.ts
+#EXTINF:0,Disney Junior
+http://213.136.90.30:8000/live/stas576/22221111/15680.ts
+#EXTINF:0,Sky Disney XD
+http://213.136.90.30:8000/live/stas576/22221111/20035.ts
+#EXTINF:0,Boomerang
+http://213.136.90.30:8000/live/stas576/22221111/25789.ts
+#EXTINF:0,Cartoon Network
+http://213.136.90.30:8000/live/stas576/22221111/20007.ts
+#EXTINF:0,Cartoonito
+http://213.136.90.30:8000/live/stas576/22221111/21854.ts
+#EXTINF:0,DeA Junior
+http://213.136.90.30:8000/live/stas576/22221111/25788.ts
+#EXTINF:0,Dea Kids
+http://213.136.90.30:8000/live/stas576/22221111/25787.ts
+#EXTINF:0,Frisbee
+http://213.136.90.30:8000/live/stas576/22221111/25791.ts
+#EXTINF:0,Nickelodeon
+http://213.136.90.30:8000/live/stas576/22221111/25786.ts
+#EXTINF:0,Rai YoYo
+http://213.136.90.30:8000/live/stas576/22221111/25792.ts
+#EXTINF:0,Boing
+http://213.136.90.30:8000/live/stas576/22221111/21851.ts
+#EXTINF:0,K2
+http://213.136.90.30:8000/live/stas576/22221111/15796.ts
+#EXTINF:0,Super Wings TV
+http://213.136.90.30:8000/live/stas576/22221111/34336.ts
+#EXTINF:0,Teen Titans TV
+http://213.136.90.30:8000/live/stas576/22221111/34337.ts
+#EXTINF:0,Cartonito (CB)
+http://213.136.90.30:8000/live/stas576/22221111/30793.ts
+#EXTINF:0,Cartoon Network (CB)
+http://213.136.90.30:8000/live/stas576/22221111/30792.ts
+#EXTINF:0,Manga
+http://213.136.90.30:8000/live/stas576/22221111/25795.ts
+#EXTINF:0,Paw Patrol TV
+http://213.136.90.30:8000/live/stas576/22221111/34338.ts
+#EXTINF:0,Peppa Pig TV
+http://213.136.90.30:8000/live/stas576/22221111/34340.ts
+#EXTINF:0,Masha e Orso TV
+http://213.136.90.30:8000/live/stas576/22221111/34341.ts
+#EXTINF:0,Winx Club TV
+http://213.136.90.30:8000/live/stas576/22221111/34339.ts
+#EXTINF:0,VGL Adventure Time
+http://213.136.90.30:8000/live/stas576/22221111/34333.ts
+#EXTINF:0,VGL Scooby Doo
+http://213.136.90.30:8000/live/stas576/22221111/34334.ts
+#EXTINF:0,Manga Channel 1 (Sampei)
+http://213.136.90.30:8000/live/stas576/22221111/26507.ts
+#EXTINF:0,Manga Channel 2 (Ken Shiro)
+http://213.136.90.30:8000/live/stas576/22221111/27000.ts
+#EXTINF:0,---------- Sky ITA Notizie ----------
+http://213.136.90.30:8000/live/stas576/22221111/34371.ts
+#EXTINF:0,Sky TG24 HD
+http://213.136.90.30:8000/live/stas576/22221111/25794.ts
+#EXTINF:0,TG norba 24
+http://213.136.90.30:8000/live/stas576/22221111/34376.ts
+#EXTINF:0,TGCOM24
+http://213.136.90.30:8000/live/stas576/22221111/34374.ts
+#EXTINF:0,Rai News
+http://213.136.90.30:8000/live/stas576/22221111/34375.ts
+#EXTINF:0,Meteo.it DOMANI
+http://213.136.90.30:8000/live/stas576/22221111/34372.ts
+#EXTINF:0,Meteo.it Dopodomani
+http://213.136.90.30:8000/live/stas576/22221111/34373.ts
+#EXTINF:0,Meteo.it OGGI
+http://213.136.90.30:8000/live/stas576/22221111/34370.ts
+#EXTINF:0,----------------- MEDIASET PREMIUM -----------------
+http://213.136.90.30:8000/live/stas576/22221111/14894.ts
+#EXTINF:0,------------ Premium Cinema------------
+http://213.136.90.30:8000/live/stas576/22221111/13383.ts
+#EXTINF:0,Premium Cinema HD
+http://213.136.90.30:8000/live/stas576/22221111/15681.ts
+#EXTINF:0,Premium Cinema 2 HD
+http://213.136.90.30:8000/live/stas576/22221111/13729.ts
+#EXTINF:0,Premium Cinema Plus 24 HD
+http://213.136.90.30:8000/live/stas576/22221111/13727.ts
+#EXTINF:0,Premium Cinema 2  24 (CB)
+http://213.136.90.30:8000/live/stas576/22221111/28254.ts
+#EXTINF:0,Premium Cinema 24 HD
+http://213.136.90.30:8000/live/stas576/22221111/15684.ts
+#EXTINF:0,Premium Action HD
+http://213.136.90.30:8000/live/stas576/22221111/14965.ts
+#EXTINF:0,Premium Action plus 24
+http://213.136.90.30:8000/live/stas576/22221111/15686.ts
+#EXTINF:0,Premium Joy plus 24
+http://213.136.90.30:8000/live/stas576/22221111/15695.ts
+#EXTINF:0,Premium Cinema Energy HD
+http://213.136.90.30:8000/live/stas576/22221111/15691.ts
+#EXTINF:0,Premium Crime HD
+http://213.136.90.30:8000/live/stas576/22221111/15687.ts
+#EXTINF:0,Premium Cinema Comedy HD
+http://213.136.90.30:8000/live/stas576/22221111/15689.ts
+#EXTINF:0,Premium Paramount Channel
+http://213.136.90.30:8000/live/stas576/22221111/25759.ts
+#EXTINF:0,Premium Studio Universal
+http://213.136.90.30:8000/live/stas576/22221111/15694.ts
+#EXTINF:0,Premium Stories
+http://213.136.90.30:8000/live/stas576/22221111/15693.ts
+#EXTINF:0,Premium Stories  24
+http://213.136.90.30:8000/live/stas576/22221111/15696.ts
+#EXTINF:0,------------  Premium Sports  ------------
+http://213.136.90.30:8000/live/stas576/22221111/25853.ts
+#EXTINF:0,Premium Sport HD
+http://213.136.90.30:8000/live/stas576/22221111/15701.ts
+#EXTINF:0,Premium Sport 2 HD
+http://213.136.90.30:8000/live/stas576/22221111/15676.ts
+#EXTINF:0,Premium Calcio 1 HD
+http://213.136.90.30:8000/live/stas576/22221111/15702.ts
+#EXTINF:0,Premium Calcio 1
+http://213.136.90.30:8000/live/stas576/22221111/15704.ts
+#EXTINF:0,Premium Calcio 2
+http://213.136.90.30:8000/live/stas576/22221111/15705.ts
+#EXTINF:0,Premium Calcio 3
+http://213.136.90.30:8000/live/stas576/22221111/15706.ts
+#EXTINF:0,Premium Calcio 4
+http://213.136.90.30:8000/live/stas576/22221111/15707.ts
+#EXTINF:0,Premium Calcio 5
+http://213.136.90.30:8000/live/stas576/22221111/15708.ts
+#EXTINF:0,Premium Calcio 6
+http://213.136.90.30:8000/live/stas576/22221111/15709.ts
