@@ -1,0 +1,509 @@
+#EXTM3U
+#EXTINF:0,Rai 1 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/134.ts
+#EXTINF:0,RAI 1 SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1721.ts
+#EXTINF:0,Rai 2 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/135.ts
+#EXTINF:0,RAI 2 SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1722.ts
+#EXTINF:0,Rai 3 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/136.ts
+#EXTINF:0,RAI 3 SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1723.ts
+#EXTINF:0,Rete 4 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/137.ts
+#EXTINF:0,Canale 5 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/138.ts
+#EXTINF:0,Canale 5 SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1558.ts
+#EXTINF:0,Italia 1 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/139.ts
+#EXTINF:0,LA 7
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/327.ts
+#EXTINF:0,MTV8
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/541.ts
+#EXTINF:0,NOVE
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/531.ts
+#EXTINF:0,RSI LA 1
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/232.ts
+#EXTINF:0,RSI LA 2
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/233.ts
+#EXTINF:0,Cinema 1 Full HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/5786.ts
+#EXTINF:0,Cinema 1 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1.ts
+#EXTINF:0,Cinema  1 HD (DSL Lente)
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1579.ts
+#EXTINF:0,CINEMA +1 FULL HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7488.ts
+#EXTINF:0,Cinema +1 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/2.ts
+#EXTINF:0,Cinema +1 (DSL Lente)
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1588.ts
+#EXTINF:0,CINEMA +24 FULL HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7489.ts
+#EXTINF:0,Cinema +24 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/3.ts
+#EXTINF:0,Cinema  24 SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1557.ts
+#EXTINF:0,CINEMA HITS FULL HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7505.ts
+#EXTINF:0,Cinema Hits HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/4.ts
+#EXTINF:0,Cinema HITS (DSL Lente)
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1587.ts
+#EXTINF:0,Cinema Family HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/5.ts
+#EXTINF:0,CinemaFamily SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1591.ts
+#EXTINF:0,Cinema Family +1 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/6.ts
+#EXTINF:0,Cinema Family  1 HD (DSL Lente)
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1578.ts
+#EXTINF:0,Cinema Passion HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7.ts
+#EXTINF:0,Cinema Max HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/10.ts
+#EXTINF:0,Cinema Max SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1592.ts
+#EXTINF:0,Cinema Max collection HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/11.ts
+#EXTINF:0,Sky Cinema Max Collection SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1575.ts
+#EXTINF:0,Cinema Cult HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/13.ts
+#EXTINF:0,Cinema Comedy HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/9.ts
+#EXTINF:0,Cinema Comedy SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1593.ts
+#EXTINF:0,Cinema Classic HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/12.ts
+#EXTINF:0,PARAMOUNT CHANNEL
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1639.ts
+#EXTINF:0,Sky 3D
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/28.ts
+#EXTINF:0,Sky Uno HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/15.ts
+#EXTINF:0,Sky Uno +1 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/157.ts
+#EXTINF:0,Sky Uno (DSL Lente)
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1583.ts
+#EXTINF:0,Sky Atlantic HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/16.ts
+#EXTINF:0,Sky Atlantic (dsl Lente)
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1585.ts
+#EXTINF:0,Sky Atlantic +1 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/234.ts
+#EXTINF:0,Fox HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/18.ts
+#EXTINF:0,Fox +1
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/142.ts
+#EXTINF:0,Fox SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1589.ts
+#EXTINF:0,Fox Life HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/19.ts
+#EXTINF:0,Fox Life SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1590.ts
+#EXTINF:0,Fox Life +1
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/235.ts
+#EXTINF:0,Fox Crime HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/20.ts
+#EXTINF:0,Fox Crime +1
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/236.ts
+#EXTINF:0,Fox Crime (Dsl Lente)
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1586.ts
+#EXTINF:0,Fox Comedy HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/60.ts
+#EXTINF:0,Fox Animation HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/25.ts
+#EXTINF:0,Lei
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/26.ts
+#EXTINF:0,Topcrime
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/196.ts
+#EXTINF:0,Classica HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1466.ts
+#EXTINF:0,CI Crime + Investigation HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/21.ts
+#EXTINF:0,Blaze HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/3581.ts
+#EXTINF:0,Cielo HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/198.ts
+#EXTINF:0,Real Time HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/529.ts
+#EXTINF:0,Rai 4
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/535.ts
+#EXTINF:0,Rai Premium
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/532.ts
+#EXTINF:0,Rai Movie
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/534.ts
+#EXTINF:0,La 5
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/537.ts
+#EXTINF:0,Italia 2
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/536.ts
+#EXTINF:0,IRIS
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/540.ts
+#EXTINF:0,Mediaset Extra
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/543.ts
+#EXTINF:0,Grande Fratello Live H24
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/542.ts
+#EXTINF:0,Mosaioco Sky Sport
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7231.ts
+#EXTINF:0,Sky Sport 24 Full HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/6089.ts
+#EXTINF:0,Sky Sport 24 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/29.ts
+#EXTINF:0,SKY Sport 24 (DSL Lente)
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1584.ts
+#EXTINF:0,Sky Sport 1 Full HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7133.ts
+#EXTINF:0,Sky Sport 1 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/30.ts
+#EXTINF:0,Sky Sport 1 Dsl Lente
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1559.ts
+#EXTINF:0,Sky Sport 2 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/31.ts
+#EXTINF:0,ITA - Sky Sport 2 HD Dsl Lente
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1574.ts
+#EXTINF:0,Sky Sport 3 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/32.ts
+#EXTINF:0,Sky Sport Plus HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/33.ts
+#EXTINF:0,Sport Plus SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1560.ts
+#EXTINF:0,BARÇA TV
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7460.ts
+#EXTINF:0,Real Madrid TV
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7461.ts
+#EXTINF:0,SPORT MIX HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/2490.ts
+#EXTINF:0,Fox Sports HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/35.ts
+#EXTINF:0,FOX SPORT SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1595.ts
+#EXTINF:0,Sport F1 Full HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/5785.ts
+#EXTINF:0,Sky Sport  F1 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/36.ts
+#EXTINF:0,Sport F1 SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1562.ts
+#EXTINF:0,Moto GP Full HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/5787.ts
+#EXTINF:0,Sky Sport MotoGP  HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/37.ts
+#EXTINF:0,MOTOGP SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1594.ts
+#EXTINF:0,EuroSport HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/38.ts
+#EXTINF:0,EuroSport 2 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/39.ts
+#EXTINF:0,Super Tennis HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/557.ts
+#EXTINF:0,Bike Channel
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/326.ts
+#EXTINF:0,Rai Sport 1
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/243.ts
+#EXTINF:0,Rai Sport 2
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/244.ts
+#EXTINF:0,Milan Channel
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/41.ts
+#EXTINF:0,JUVENTUS TV
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/42.ts
+#EXTINF:0,Inter Channel
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/43.ts
+#EXTINF:0,Lazio Style Channel
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/44.ts
+#EXTINF:0,ROMA TV
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/45.ts
+#EXTINF:0,Torino Channel
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/3322.ts
+#EXTINF:0,SportItalia
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7457.ts
+#EXTINF:0,CACCIA e pesca
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/46.ts
+#EXTINF:0,PESCA & caccia
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/47.ts
+#EXTINF:0,Class Horse TV
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1460.ts
+#EXTINF:0,Pescare e Cacciare
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7458.ts
+#EXTINF:0,GAZZETTA TV
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/506.ts
+#EXTINF:0,Mosaico Sky Calcio
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7182.ts
+#EXTINF:0,Sky Supercalcio Full HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/5788.ts
+#EXTINF:0,Sky Supercalcio HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/34.ts
+#EXTINF:0,sky supercalcio SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1561.ts
+#EXTINF:0,Sky Calcio 1 full HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7074.ts
+#EXTINF:0,Sky Calcio 1 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/48.ts
+#EXTINF:0,SKY CALCIO 1 SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1482.ts
+#EXTINF:0,Sky Calcio 2 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/49.ts
+#EXTINF:0,Sky Calcio 2 Dsl Lente
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1564.ts
+#EXTINF:0,Sky Calcio 3 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/50.ts
+#EXTINF:0,Sky Calcio 3 Dsl Lente
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1565.ts
+#EXTINF:0,Sky Calcio 4 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/51.ts
+#EXTINF:0,CALCIO 4 SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1566.ts
+#EXTINF:0,Sky Calcio 5 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/52.ts
+#EXTINF:0,CALCIO 5 SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1567.ts
+#EXTINF:0,Sky Calcio 6 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/53.ts
+#EXTINF:0,Sky Calcio 6 SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1568.ts
+#EXTINF:0,Sky Calcio 7 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/54.ts
+#EXTINF:0,CALCIO 7 SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1569.ts
+#EXTINF:0,Sky Calcio 8 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/55.ts
+#EXTINF:0,Sky Calcio 9
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1463.ts
+#EXTINF:0,Sky Calcio 10
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1462.ts
+#EXTINF:0,Sky Calcio 11
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1461.ts
+#EXTINF:0,Sky Calcio 12
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1480.ts
+#EXTINF:0,Mosaico Sportube
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7218.ts
+#EXTINF:0,Sportube Match 1
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7168.ts
+#EXTINF:0,Sportube Match 2
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7169.ts
+#EXTINF:0,Sportube Match 3
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7170.ts
+#EXTINF:0,Sportube Match 4
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7171.ts
+#EXTINF:0,Sportube Match 5
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7172.ts
+#EXTINF:0,Sportube Match 6
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7173.ts
+#EXTINF:0,Sportube Match 7
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7174.ts
+#EXTINF:0,Sportube Match 8
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7175.ts
+#EXTINF:0,Sportube Match 9
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7176.ts
+#EXTINF:0,Sportube Match 10
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7177.ts
+#EXTINF:0,Sky Arte HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/22.ts
+#EXTINF:0,Discovery HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/56.ts
+#EXTINF:0,Sky Discovery channel  1
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1598.ts
+#EXTINF:0,NationalGeo HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/57.ts
+#EXTINF:0,Discovery Sci HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/58.ts
+#EXTINF:0,Discovery T&L HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/59.ts
+#EXTINF:0,History HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/61.ts
+#EXTINF:0,NatGeo Wild HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/62.ts
+#EXTINF:0,Nat Geo Wild  1
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1570.ts
+#EXTINF:0,NatGeo People HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/63.ts
+#EXTINF:0,Gambero Rosso HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/147.ts
+#EXTINF:0,Dove TV
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1597.ts
+#EXTINF:0,Animal Planet
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/144.ts
+#EXTINF:0,Focus
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/199.ts
+#EXTINF:0,DMAX
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/204.ts
+#EXTINF:0,ALICE
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/916.ts
+#EXTINF:0,MARCO POLO
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/917.ts
+#EXTINF:0,DeA Kids
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/67.ts
+#EXTINF:0,DeA Junior
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/74.ts
+#EXTINF:0,Nickelodeon
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/69.ts
+#EXTINF:0,Cartoon Network
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/65.ts
+#EXTINF:0,Cartoon +1
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/419.ts
+#EXTINF:0,Boomerang
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/66.ts
+#EXTINF:0,Disney Junior
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/70.ts
+#EXTINF:0,Disney Channel HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/64.ts
+#EXTINF:0,Disney Channel +1
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/197.ts
+#EXTINF:0,Disney Channel  2
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1572.ts
+#EXTINF:0,Disney XD HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/71.ts
+#EXTINF:0,Nick Junior
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/424.ts
+#EXTINF:0,BABY TV
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/420.ts
+#EXTINF:0,Super!
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/515.ts
+#EXTINF:0,K2
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/382.ts
+#EXTINF:0,MAN-GA
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/143.ts
+#EXTINF:0,RAI YOYO
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/470.ts
+#EXTINF:0,CARTONITO
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/516.ts
+#EXTINF:0,BOING
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/539.ts
+#EXTINF:0,PEPPA PIG CHANNEL
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1481.ts
+#EXTINF:0,Sky TG 24 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/75.ts
+#EXTINF:0,TG COM 24
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/530.ts
+#EXTINF:0,RAI NEWS 24
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/533.ts
+#EXTINF:0,Premium Cinema HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/88.ts
+#EXTINF:0,Premium Cinema HD X ADSL Lente
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1580.ts
+#EXTINF:0,Premium Cinema +24
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/372.ts
+#EXTINF:0,Premium Cinema 2 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/465.ts
+#EXTINF:0,Premium Cinema2  HD X ADSL Lente
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1581.ts
+#EXTINF:0,Premium Cinema 2 +24
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/466.ts
+#EXTINF:0,Premium Crime HD (DSL Lente)
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1573.ts
+#EXTINF:0,Premium Crime HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7062.ts
+#EXTINF:0,Premium Crime +24
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/116.ts
+#EXTINF:0,Premium Emotion
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/90.ts
+#EXTINF:0,Premium Energy HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/6882.ts
+#EXTINF:0,Premium Energy +24
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/89.ts
+#EXTINF:0,Premium Comedy
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/111.ts
+#EXTINF:0,Premium Stories
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/918.ts
+#EXTINF:0,Premium Joi
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/113.ts
+#EXTINF:0,Studio Universal - Premium
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/112.ts
+#EXTINF:0,Premium Action HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/469.ts
+#EXTINF:0,Premium Action HD X ADSL Lente
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1582.ts
+#EXTINF:0,Premium Action +24
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/115.ts
+#EXTINF:0,Premium Sport HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/468.ts
+#EXTINF:0,Premium Sport SD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1596.ts
+#EXTINF:0,Premium Sport 2 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/122.ts
+#EXTINF:0,Premium Calcio 1 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/131.ts
+#EXTINF:0,Premium Sport 4K
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/6084.ts
+#EXTINF:0,ITA - Premium Calcio HD Dsl Lente
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1576.ts
+#EXTINF:0,Premium Napoli Auriemma HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/1784.ts
+#EXTINF:0,Premium Calcio 1
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/124.ts
+#EXTINF:0,Premium Calcio 2
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/125.ts
+#EXTINF:0,Premium Calcio 3
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/126.ts
+#EXTINF:0,Premium Calcio 4
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/127.ts
+#EXTINF:0,Premium Calcio 5
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/128.ts
+#EXTINF:0,Premium Calcio 6
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/129.ts
+#EXTINF:0,Premium Calcio 7
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/7459.ts
+#EXTINF:0,Vetrina Primafila
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3708.mkv
+#EXTINF:0,Primafila 1 HD
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3709.mkv
+#EXTINF:0,Primafila 2 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/104.ts
+#EXTINF:0,Primafila 3 HD
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3710.mkv
+#EXTINF:0,Primafila 4 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/105.ts
+#EXTINF:0,Primafila 5 HD
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3711.mp4
+#EXTINF:0,Primafila 6 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/106.ts
+#EXTINF:0,Primafila 7 HD
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3712.mp4
+#EXTINF:0,Primafila 8 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/107.ts
+#EXTINF:0,Primafila 9 HD
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3713.mp4
+#EXTINF:0,Primafila 10 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/108.ts
+#EXTINF:0,Primafila 11 HD
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3714.mp4
+#EXTINF:0,Primafila 12 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/109.ts
+#EXTINF:0,Primafila 13 HD
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3715.mkv
+#EXTINF:0,Primafila 14 HD
+http://kepleriptv.cechire.org:15003/live/xDOGSERHnc/ZTlfWK9o77/110.ts
+#EXTINF:0,Primafila 15 HD
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3716.mp4
+#EXTINF:0,Primafila 16 HD
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3717.mp4
+#EXTINF:0,Primafila 17 HD
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3718.mp4
+#EXTINF:0,Primafila 18 HD
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3719.mp4
+#EXTINF:0,Primafila 19 HD
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3720.mp4
+#EXTINF:0,VETRINA PRIMAVISIONE
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3721.mp4
+#EXTINF:0,PRIMAVISIONE 1
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3722.mp4
+#EXTINF:0,PRIMAVISIONE 2
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3723.mp4
+#EXTINF:0,PRIMAVISIONE 3
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3724.mp4
+#EXTINF:0,PRIMAVISIONE 4
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3725.mp4
+#EXTINF:0,PRIMAVISIONE 5
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3726.mp4
+#EXTINF:0,PRIMAVISIONE 6
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3727.mp4
+#EXTINF:0,PRIMAVISIONE 7
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3728.mp4
+#EXTINF:0,PRIMAVISIONE 8
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/3729.mkv
+#EXTINF:0,PRIMAVISIONE 9
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/6082.mkv
+#EXTINF:0,PRIMAVISIONE 10
+http://kepleriptv.cechire.org:15003/movie/xDOGSERHnc/ZTlfWK9o77/6083.mkv
